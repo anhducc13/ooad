@@ -22,10 +22,10 @@ const Content = (props) => {
     defaultSelectCheckbox,
     defaultSelectRadio,
     image,
+    showAnswer,
   } = question;
   const [selectCheckbox, setSelectCheckbox] = useState([]);
   const [selectRadio, setSelectRadio] = useState(undefined);
-  const [showAnswer, setShowAnswer] = useState(false);
   const checkAnswer = () => {
     let exactly = false;
     if (!multiple) {
@@ -43,7 +43,6 @@ const Content = (props) => {
       notification.success({ message: "Chính xác", placement: "bottomRight" });
     } else {
       notification.error({ message: "Sai", placement: "bottomRight" });
-      setShowAnswer(true);
     }
     cbCheckAnswer(no, exactly, multiple ? selectCheckbox : selectRadio);
   };
@@ -51,7 +50,6 @@ const Content = (props) => {
   const resetAnswer = () => {
     setSelectRadio(undefined);
     setSelectCheckbox([]);
-    setShowAnswer(false);
     cbCheckAnswer(no, undefined, multiple ? [] : undefined);
   };
   const actions = [

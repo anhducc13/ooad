@@ -12,15 +12,15 @@ import Header from "./components/Header";
 import Content from "./components/Content";
 import { v4 as uuidv4 } from "uuid";
 import _ from "lodash";
-import { Tabs } from "antd";
+import { Tabs, Button } from "antd";
 
 const { TabPane } = Tabs;
 
 function App(props) {
   const { source } = props;
-  const [questions, setQuestions] = useState(() => {
+  const getQuestions = (src) => {
     return _.shuffle(
-      source.map((el) => {
+      src.map((el) => {
         const answers = _.shuffle(
           el.answers.map((x, index) => ({
             id: uuidv4(),
@@ -32,6 +32,7 @@ function App(props) {
           ...el,
           answers,
           multiple: el.numOfRightAnswer > 1,
+          showAnswer: false,
         };
       })
     ).map((el, index) => ({
@@ -42,7 +43,8 @@ function App(props) {
       defaultSelectCheckbox: el.multiple ? undefined : [],
       defaultSelectRadio: undefined,
     }));
-  });
+  }
+  const [questions, setQuestions] = useState(() => getQuestions(source));
   const currentQuestion = questions.find((el) => el.current);
   const handleChangeQuestion = (no) => {
     const newQuestions = questions.map((el) => {
@@ -65,6 +67,7 @@ function App(props) {
             isFalse: undefined,
             defaultSelectCheckbox: el.multiple ? undefined : [],
             defaultSelectRadio: undefined,
+            showAnswer: false,
           };
         }
         return el;
@@ -89,6 +92,7 @@ function App(props) {
           return {
             ...el,
             isFalse: true,
+            showAnswer: true,
             defaultSelectCheckbox: el.multiple ? currAnswers : [],
             defaultSelectRadio: el.multiple ? undefined : currAnswers,
           };
@@ -121,11 +125,17 @@ function App(props) {
     setQuestions(newQuestion);
   };
 
+  const handleReset = () => {
+    const qs = getQuestions(source);
+    setQuestions(qs);
+  }
+
   return (
     <div className="container">
       <div className="mt-3 text-center">
         <Header onChangeQuestion={handleChangeQuestion} questions={questions} />
       </div>
+      <Button onClick={handleReset} type="primary">Làm lại</Button>
       <div className="my-3">
         {currentQuestion && (
           <Content
