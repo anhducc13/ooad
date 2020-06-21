@@ -1,3 +1,31 @@
+## Thêm câu hỏi
+
+Có các branch tương ứng với các file câu hỏi json trong thư mục src/
+
+Ai thêm phần nào sẽ qua nhánh đó làm và tạo pull request về master
+
+Định dạng câu hỏi như sau:
+
+```json
+{
+    "text": "Phát biểu nào là đúng?",
+    "numOfRightAnswer": 2,
+    "answers": [
+        "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
+        "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
+        "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
+        "UML là ngôn ngữ lập trình trực quan"
+    ],
+    "image": null
+},
+```
+Mô tả: <br />
+text: nội dung câu hỏi <br />
+numOfRightAnswer: số lượng câu trả lời đúng (single choice là 1, multi choice > 1, nhập sai web tèo) <br />
+answers: các câu trả lời, `(những) câu trả lời đúng xếp ở đầu tiên`, ởi ví dụ trên 2 ý đầu là các câu trả lời đúng <br />
+image: hình ảnh (nếu có), cần upload lên đâu đó rồi gán link vào
+
+<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
