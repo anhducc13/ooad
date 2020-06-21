@@ -1,0 +1,35 @@
+[
+    {
+        "text": "Phát biểu nào là đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
+            "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
+            "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
+            "UML là ngôn ngữ lập trình trực quan"
+        ],
+        "image": null
+    },
+    {
+        "text": "Chỉ ra ba cách mà một lớp có cấu trúc khác với một lớp truyền thống? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "Nó xác định rõ ràng ranh giới lớp thông qua lớp vỏ đóng gói",
+            "Nó mang giao diện công cộng vào lớp thông qua các cổng",
+            "Nó cho thấy vai trò của lớp",
+            "Nó định nghĩa các thông điệp giữa chính nó và các lớp khác"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là một đặc điểm của một lớp có cấu trúc?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "có thể đóng nhiều vai trò khác nhau trên các đối tượng tương tác với nó",
+            "phải có một giao diện cho mỗi vai trò",
+            "chỉ có thể đóng một vai trò, bất kể có bao nhiêu đối tượng giao dịch với nó",
+            "bị giới hạn ở một vai trò, nhưng có thể có nhiều giao diện"
+        ],
+        "image": null
+    }
+]
