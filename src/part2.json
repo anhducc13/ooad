@@ -1,0 +1,288 @@
+[
+    {
+        "text": "Tài liệu nào mô tả cơ chế thiết kế, bất kì sự ánh xạ nào giữa các cơ chế thiết kế và chi tiết đối với sự sử dụng của chúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Hướng dẫn thiết kế",
+            "Tài liệu Kiến trúc Phần mềm",
+            "Tài liệu tầm nhìn",
+            "Kế hoạch phát triển phần mềm"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong trạng thái của một máy trạng thái, một hành vi có thể được định nghĩa (chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "khi đạt đến trạng thái",
+            "khi rời khỏi một trạng thái",
+            "trong một trạng thái",
+            "trước khi đến một trạng thái"
+        ],
+        "image": null
+    },
+    {
+        "text": "Khi xác định các phần tử thiết kế, một lớp phân tích đơn giản sẽ ánh xạ tới một (n) _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "lớp thiết kế",
+            "lớp chủ động",
+            "giao diện",
+            "hệ thống con"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hoạt động nào của OOAD xác định cơ chế phân tán?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Xác định cơ chế thiết kế",
+            "Xác định các yếu tố thiết kế",
+            "Thiết kế lớp học",
+            "Phân tích kiến trúc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Xác định các yếu tố thiết kế là một phần của quy trình công việc chi tiết?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "làm mịn kiến trúc",
+            "Xác định cấu trúc ứng cử viên",
+            "Các thành phần thiết kế",
+            "Thực hiện Kiến trúc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là một đầu vào cho hoạt động xác định phần tử thiết kế?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Tài liệu Kiến trúc Phần mềm",
+            "Mô hình triển khai",
+            "Mô hình cài đặt",
+            "Kiến trúc tham khảo"
+        ],
+        "image": null
+    },
+    {
+        "text": "Loại cơ chế nào là một kết nối trên một sơ đồ triển khai?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "truyền thông",
+            "sao lưu",
+            "giao chuyển",
+            "tính toán"
+        ],
+        "image": null
+    },
+    {
+        "text": "Cơ chế thiết kế _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " giả định một số chi tiết của môi trường thực hiện, nhưng không gắn với một thực hiện cụ thể",
+            "nắm bắt các khía cạnh chính của một giải pháp trong một cách mà là thực hiện độc lập",
+            "quy định cụ thể việc thực hiện chính xác cơ chế và ràng buộc với một Công nghệ, ngôn ngữ thực hiện, hoặc nhà cung cấp",
+            "giống như một mẫu thiết kế"
+        ],
+        "image": null
+    },
+    {
+        "text": "Khi xác định các giao diện trong hoạt động xác định phần tử thiết kế, câu nào sau đây là đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Giao diện nên được đóng gói riêng biệt với các yếu tố hiện thực hóa chúng.",
+            "Các lớp học không nên nhận ra một giao diện.",
+            "Mỗi hệ thống con chỉ nhận được một giao diện.",
+            "Giao diện nên được xác định trước khi tạo ra các hệ thống con."
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là một cơ chế thiết kế?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Remote Method Invocation",
+            "Độ bền",
+            "Cơ sở dữ liệu hướng đối tượng ObjectStore",
+            "Phân phối"
+        ],
+        "image": null
+    },
+    {
+        "text": "Để bắt đầu xác định các cơ chế thiết kế, bạn bắt đầu bằng việc phân loại cơ chế phân tích. Ba bước trong quá trình phân loại cơ chế phân tích? (Chọn ba.)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "xác định các đặc tính đặc trưng cho mỗi cơ chế phân tích",
+            "xác định các khách (client) của từng cơ chế phân tích",
+            "nhóm client theo cách sử dụng các đặc tính đặc trưng",
+            "chỉ định một nhà cung cấp thực hiện cho mỗi cơ chế phân tích"
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích của hoạt động xác định cơ chế thiết kế là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để làm mịn các cơ chế phân tích thành các cơ chế thiết kế dựa trên các ràng buộc được áp đặt bởi môi trường thực hiện",
+            "để tinh chỉnh các cơ chế phân tích và xác định việc thực hiện chính xác Cơ chế",
+            "cung cấp một bộ khái niệm các chuyển vụ được sử dụng bởi các đối tượng phân tích",
+            " để xác định vị trí thiết kế trong kiến trúc vì vậy nỗ lực kiến trúc Vẫn tập trung và ít có khả năng bị lúng túng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hoạt động phân tích và thiết kế nào ánh xạ hệ thống con tới một lớp phân tích?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Xác định các phần tử thiết kế",
+            "Phân tích kiến trúc",
+            "Xác định các hệ thống con",
+            "Hợp nhất các yếu tố thiết kế hiện có"
+        ],
+        "image": null
+    },
+    {
+        "text": "Phần tử thiết kế nào được sử dụng để biểu diễn một đối tượng đồng thời?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "lớp hoạt động (active class)",
+            "Viên nang",
+            "thiết kế lớp",
+            "sự kiện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một lớp phân tích ánh xạ trực tiếp đến lớp thiết kế khi nào?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "khi lớp phân tích đại diện cho một trừu tượng logic đơn.",
+            "Khi lớp phân tích sử dụng khuôn mẫu <entity>",
+            "Khi công cụ mô hình hoá hỗ trợ chuyển đổi các mô hình phân tích sang thiết kế",
+            "khi một nhà phân tích có kỹ năng thiết kế mạnh"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một cân nhắc quan trọng khi phân bổ các quy trình cho node(nút)?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Giảm thiểu lưu lượng mạng",
+            "giảm thiểu điện năng tiêu thụ",
+            "sử dụng tất cả các nút có sẵn",
+            "Khoảng cách vật lý giữa các nút"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các phần tử UML nào được sử dụng để mô tả các kiến trúc vật lý của một hệ thống?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "các nút và đầu nối",
+            "các lớp học và mối quan hệ",
+            "đối tượng và thông điệp",
+            "các hệ thống con và phụ thuộc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong hoạt động mô tả phân tán, hoạt động mô tả kiến trúc run-time phân bổ các tiến trình cho _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "các nút vật lý",
+            "các thành phần",
+            "các lớp",
+            "hoạt động"
+        ],
+        "image": null
+    },
+    {
+        "text": "Định nghĩa cấu hình mạng là bước _____ của hoạt động mô tả phân phối.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đầu tiên",
+            "cuối cùng",
+            "thứ hai",
+            "thứ năm"
+        ],
+        "image": null
+    },
+    {
+        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "nhiều nút (nhiều hơn một nút)",
+            " không chỉ các nút",
+            "chỉ một nút",
+            " không các nút hoặc một nút"
+        ],
+        "image": null
+    },
+    {
+        "text": "Những gì được sử dụng để mô tả quá trình áp dụng một cơ chế phân phối trong quá trình thực hiện (implementation)?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Mô hình UML và các bước bằng văn bản",
+            "Biểu đồ hoạt động",
+            "sơ đồ lưu đồ",
+            "sơ đồ trường hợp sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đây là ví dụ về một đầu nối?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Giao thức HTTP",
+            "Đĩa cứng SCSI",
+            "Nguồn điện liên tục",
+            "lớp JDBC"
+        ],
+        "image": null
+    },
+    {
+        "text": "Cái nào là một thiết bị?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "máy tính cầm tay",
+            "máy chủ cơ sở dữ liệu",
+            "máy chủ web",
+            "mạng riêng ảo"
+        ],
+        "image": null
+    },
+    {
+        "text": "khung nhìn nào trong 4+1 tập trung vào hoạt động mô tả phân phối?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Khung nhìn triển khai",
+            "Khung nhìn logic",
+            "Khung nhìn ca sử dụng",
+            "Khung nhìn cài đặt"
+        ],
+        "image": null
+    },
+    {
+        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "nhiều hơn một nút (nhiều nút)",
+            " không chỉ các nút",
+            "chỉ một nút",
+            "không các nút hoặc một nút"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các hiện vật là các thực thể _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "được triển khai vào các nút vật lý",
+            "máy chủ chạy phần mềm",
+            "là kết quả của sự biến đổi mô hình",
+            "được lưu trong bộ nhớ cache của trình duyệt"
+        ],
+        "image": null
+    }
+]

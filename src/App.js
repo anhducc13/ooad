@@ -1,13 +1,10 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React, { useState } from "react";
-import analysic1_25 from "./analysic1_25.json";
-import analysic26_50 from "./analysic26_50.json";
-import design1_25 from "./design1_25.json";
-import design26_50 from "./design26_50.json";
-import design51_75 from "./design51_75.json";
-import design76_100 from "./design76_100.json";
-import design101_125 from "./design101_125.json";
-import design126_156 from "./design126_156.json";
+import part1 from './part1.json';
+import part2 from './part2.json';
+import part3 from './part3.json';
+import part4 from './part4.json';
+import part5 from './part5.json';
 import "antd/dist/antd.css";
 import Header from "./components/Header";
 import Content from "./components/Content";
@@ -162,29 +159,20 @@ export default () => {
         . Cảm ơn đã đóng góp!
       </div>
       <Tabs defaultActiveKey="1">
-        <TabPane tab="Phân tích 1-25" key="1">
-          <App source={analysic1_25} />
+        <TabPane tab="Phần 1" key="1">
+          <App source={part1} />
         </TabPane>
-        <TabPane tab="Phân tích 26-50" key="2">
-          <App source={analysic26_50} />
+        <TabPane tab="Phần 2" key="2">
+          <App source={part2} />
         </TabPane>
-        <TabPane tab="Thiết kế 1-25" key="3">
-          <App source={design1_25} />
+        <TabPane tab="Phần 3" key="3">
+          <App source={part3} />
         </TabPane>
-        <TabPane tab="Thiết kế 26-50" key="4">
-          <App source={design26_50} />
+        <TabPane tab="Phần 4" key="4">
+          <App source={part4} />
         </TabPane>
-        <TabPane tab="Thiết kế 51-75" key="5">
-          <App source={design51_75} />
-        </TabPane>
-        <TabPane tab="Thiết kế 76-100" key="6">
-          <App source={design76_100} />
-        </TabPane>
-        <TabPane tab="Thiết kế 101-125" key="7">
-          <App source={design101_125} />
-        </TabPane>
-        <TabPane tab="Thiết kế 126-156" key="8">
-          <App source={design126_156} />
+        <TabPane tab="Phần 5" key="5">
+          <App source={part5} />
         </TabPane>
       </Tabs>
     </div>

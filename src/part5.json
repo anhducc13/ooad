@@ -1,0 +1,256 @@
+[
+    {
+        "text": "Câu nào đúng về một đối tượng hoạt động?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Nó là một vật thể độc lập có thể giao tiếp với các vật thể hoạt động khác không đồng bộ.",
+            "Không có trạng thái.",
+            "Nó phụ thuộc vào việc thực hiện hệ thống tổng thể.",
+            "Nó không cấu trúc để cho phép lớp học được thao tác dễ dàng."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong một sơ đồ tuần tự, mỗi sự tương tác tương ứng với _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Quá trình chuyển đổi trên sơ đồ trạng thái",
+            "Một điểm lựa chọn trên sơ đồ trạng thái",
+            "Một trạng thái trên sơ đồ",
+            "Trạng thái ban đầu"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong một sơ đồ trạng thái, một trạng thái có hai quá trình chuyển đổi. Một trong những chuyển đổi là một quá trình chuyển đổi nội bộ và một quá trình chuyển đổi bên ngoài. (Các) trạng thái nào có thể thực hiện hành động thoát?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Chỉ chuyển đổi bên ngoài",
+            "Chỉ chuyển đổi nội bộ",
+            "Không chuyển đổi bên trong và bên ngoài",
+            "Cả quá trình chuyển đổi nội bộ và bên ngoài"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là cơ chế chung của UML cho việc tổ chức các Yếu tố thành các nhóm?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "một gói",
+            "một sơ đồ lớp",
+            "một hoạt động",
+            "một sơ đồ tổng hợp"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một cổng là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "một tham số đại diện cho một thông điệp vượt qua ranh giới của một tương tác hoặc đoạn tương tác",
+            "một giao thức được xác định để truy cập vào các phần bên trong của một hệ thống con",
+            "một điểm quyết định trong một máy trạng thái có nhiều hơn hai lựa chọn",
+            "một tập hợp các trạm kiểm soát mỗi thiết kế hệ thống con phải đáp ứng trước khi nó có thể được được giao thực hiện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong sơ đồ, E là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Điều kiện bảo vệ",
+            "nĩa(fork)",
+            "trạng thái ban đầu",
+            "quyết định",
+            "quá trình chuyển đổi",
+            "trạng thái cuối cùng",
+            "sự kiện",
+            "Trạng thái"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, H là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "fork (nĩa)",
+            "trạng thái ban đầu",
+            "quyết định",
+            "quá trình chuyển đổi",
+            "trạng thái cuối cùng",
+            "sự kiện",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Thực thể nào có ranh giới và nhận dạng rõ ràng đóng gói trạng thái và hành vi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Đối tượng",
+            "Một lớp",
+            "Thành phần",
+            "Gói"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong một sự phụ thuộc, thông qua lớp tham chiếu nào tăng khả năng hiển thị tới bên cung cấp?",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "tham chiếu địa phương",
+            "tham chiếu đối số",
+            "toàn cầu tham chiếu",
+            "lĩnh vực tham khảo"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một đồ thị có hướng của các nút kết nối bằng chuyển tiếp là một đồ thị _____",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Máy trạng thái",
+            "Truyền thông",
+            "Dãy",
+            "Thành phần"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong sơ đồ, F là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Sự kiện",
+            "Fork (nĩa)",
+            "Trạng thái ban đầu",
+            "Quyết định",
+            "Quá trình chuyển đổi",
+            "trạng thái cuối cùng",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, C1 và C2 là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Trạng thái",
+            "Fork",
+            "Trạng thái ban đầu",
+            "Quyết định",
+            "Quá trình chuyển đổi",
+            "Qrạng thái cuối cùng",
+            "Sự kiện",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, B là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Trạng thái ban đầu",
+            "Fork",
+            "Quyết định",
+            "Quá trình chuyển đổi",
+            "Trạng thái cuối cùng",
+            "Sự kiện",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, A là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Trạng thái cuối cùng",
+            "Fork",
+            "Trạng thái ban đầu",
+            "Quyết định",
+            "Quá trình chuyển đổi",
+            "Sự kiện",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, G là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Quyết định",
+            "Fork",
+            "Trạng thái ban đầu",
+            "Quá trình chuyển đổi",
+            "Trạng thái cuối cùng",
+            "Sự kiện",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Trong sơ đồ, D là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Quá trình chuyển đổi",
+            "Fork",
+            "Trạng thái ban đầu",
+            "Quyết định",
+            "Trạng thái cuối cùng",
+            "Sự kiện",
+            "Trạng thái",
+            "Điều kiện bảo vệ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F10_design.png?alt=media&token=bd84a09b-9f35-4531-b057-677f69f5ac76"
+    },
+    {
+        "text": "Hai câu nào là đúng về quá trình theo ca sử dụng?",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Các ca sử dụng ngắn gọn, đơn giản, và có thể hiểu được bởi một loạt các bên liên quan.",
+            "Các trường hợp sử dụng giúp đồng bộ hóa nội dung của các mô hình khác nhau.",
+            "Trường hợp sử dụng là một danh sách đầy đủ các yêu cầu chức năng.",
+            "Các trường hợp sử dụng chỉ rõ hành vi của hệ thống sẽ được thực hiện như thế nào."
+        ],
+        "image": null
+    },
+    {
+        "text": "Một ________ mô hình sự tương tác của hệ thống thông tin với người dùng cuối và các hệ thống bên ngoài khác.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Sơ đồ ca sử dụng.",
+            "Kế hoạch thực hiện.",
+            "Sơ đồ lớp.",
+            "Sơ đồ gói.",
+            "Sơ đồ cơ sở dữ liệu."
+        ],
+        "image": null
+    },
+    {
+        "text": "Biểu đồ ca sử dụng là tất cả những điều sau đây, ngoại trừ:",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Một chuỗi hành động mà một hệ thống thực hiện mang lại một kết quả có giá trị cho một tác nhân.",
+            "Một cách chính thức để đại diện cho cách thức một hệ thống kinh doanh tương tác với môi trường của nó.",
+            "Định nghĩa quy trình công việc của quy trình thống nhất.",
+            "minh hoạ các hoạt động được thực hiện bởi những người sử dụng hệ thống.",
+            "Một kỹ thuật dựa trên kịch bản trong UML."
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích chính của sơ đồ ca sử dụng là _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để khám phá thêm các chi tiết như thuộc tính và phương thức của một lớp",
+            "để xây dựng một từ vựng được hiểu bởi cả người dùng và các nhà phân tích",
+            "để hiển thị tương tác người dùng với hệ thống",
+            "mô hình tương tác giữa hệ thống và môi trường"
+        ],
+        "image": null
+    }
+]    

@@ -1,0 +1,278 @@
+[
+    {
+        "text": "Nhiệm vụ nào được thực hiện trong quá trình làm mịn hiện thực ca sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "mô hình hóa các mối quan hệ lớp liên kết.",
+          "xác định các lớp tham gia",
+          "phân chia trách nhiệm giữa các lớp",
+          "các thông điệp mô hình giữa các lớp"
+        ],
+        "image": null
+      },
+      {
+        "text": "Với cấu hình sau đây: Gói A, chứa Class aClass nằm trong tầng trình diễn. Gói B,chứa một class bClass và một giao diện bInterface nằm trong tầng nghiệp vụ. Gói C, trong đó chứa cClass trong tầng dữ liệu. Đó là một thực hành nghèo?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "aClass có một thuộc tính của kiểu cClass.",
+          "aClass gọi một phương thức trong bClass.",
+          "aClass nhận ra bInterface.",
+          "bClass nhận ra bInterface."
+        ],
+        "image": null
+      },
+      {
+        "text": "Mối quan hệ giữa operation và method là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Một method mô tả cách operation được thực hiện.",
+          "Các điều khoản là đồng nghĩa.",
+          "Một hoạt động mô tả cách thức một phương pháp được thực hiện.",
+          "Không có mối quan hệ."
+        ],
+        "image": null
+      },
+      {
+        "text": "Tại sao bạn lại sử dụng các giao diện hệ thống con chứ không phải là một thực thể hệ thống con trong biểu đồ tuần tự?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "để làm cho ca sử dụng dễ dàng thay đổi",
+          "làm cho dễ mô hình các hệ thống con hơn trong quá trình thiết kế hệ thống con",
+          "để dễ dàng bảo trì biểu đồ trình tự khi chữ ký thông báo thay đổi",
+          "để giảm số lớp học cần thiết để thực hiện các hệ thống con"
+        ],
+        "image": null
+      },
+      {
+        "text": "Các hệ thống con bổ sung có thể được phát hiện trong quá trình thiết kế ca sử dụng bằng cách ghi chú _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "luồng con thông thường giữa các đối tượng trên một vài sơ đồ tuần tự",
+          "các vật tương tự trên một số sơ đồ tuần tự",
+          "một loạt các sự chuyển tiếp trạng thái nhất định đối với nhiều lớp liên quan đến một trường hợp sử dụng hiện thực hóa",
+          "các lớp thiết kế tương tự liên quan đến nhiều hơn một trường hợp sử dụng trường hợp"
+        ],
+        "image": null
+      },
+      {
+        "text": "Những hoạt động nào được thực hiện trong suốt quá trình thiết kế ca sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "mô tả hành vi liên quan đến bền vững",
+          "chuyển đổi các lớp phân tích thành các lớp thiết kế và các hệ thống con thiết kế",
+          "mô tả các tương tác đối tượng thực hiện các thao tác giao diện",
+          "đơn giản hoá sơ đồ tuần tự sử dụng các lớp thiết kế"
+        ],
+        "image": null
+      },
+      {
+        "text": "Biểu đồ nào được sử dụng để mô tả hiện thực ca sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "sơ đồ truyền thông",
+          "mô tả trường hợp sử dụng văn bản",
+          "biểu đồ trạng thái",
+          "sơ đồ hoạt động"
+        ],
+        "image": null
+      },
+      {
+        "text": "Điều gì định nghĩa trách nhiệm của hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "các hoạt động của các giao diện nó thực hiện",
+          "hoạt động của lớp nội bộ",
+          "các trường hợp sử dụng trường hợp trong đó hệ thống con xuất hiện",
+          "các hoạt động trên một lớp chứa trong hệ thống con"
+        ],
+        "image": null
+      },
+      {
+        "text": "Thiết kế ca sử dụng là một phần của quy trình làm việc chi tiết?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Thiết kế các thành phần.",
+          "Các trường hợp sử dụng thiết kế.",
+          "Phân tích hành vi.",
+          "Các lớp thiết kế và các hệ thống con."
+        ],
+        "image": null
+      },
+      {
+        "text": "Tài liệu biểu đồ tuần tự bổ sung, dưới dạng ghi chú và các kịch bản, thường được sử dụng cho _____. (Chọn ba.)",
+        "numOfRightAnswer": 3,
+        "answers": [
+          "mô tả thời gian yêu cầu giữa các thông điệp",
+          "cung cấp chi tiết về hành vi có điều kiện",
+          "tương quan các điểm mở rộng trong ca sử dụng với các vị trí cụ thể trong Sơ đồ tuần tự",
+          "xác định các thuộc tính cho các đối tượng xuất hiện trong sơ đồ"
+        ],
+        "image": null
+      },
+      {
+        "text": "Về sự bền vững, đâu là hai chức năng của giao chuyển? (Chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+          "đảm bảo rằng một tập các hoạt động được thực hiện hoặc tất cả, hoặc không gì cả.",
+          "đảm bảo rằng tập các đối tượng di chuyển từ một trạng thái nhất quán sang trạng thái khác",
+          "cho phép một nhà thiết kế lựa chọn xác định các hoạt động sẽ được thực hiện với Ưu tiên khi thiếu nguồn tài nguyên hệ thống",
+          "đơn giản hóa công việc thiết kế, do đó sự kiên trì không cần phải được rõ ràng Được xem xét trong quá trình sử dụng Case Design",
+          "chỉ đơn giản là thiết kế công việc, bằng cách cung cấp phương pháp tiếp cận tiêu chuẩn để đại diện"
+        ],
+        "image": null
+      },
+      {
+        "text": "Ba mục đích của Thiết kế ca sử dụng là gì? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+          "làm mịn các ca sử dụng hiện thực trong các tương tác",
+          "để làm mịn các yêu cầu về hoạt động của các hệ thống con thiết kế và / hoặc giao diện",
+          "để làm mịn các yêu cầu về hoạt động của các lớp thiết kế",
+          "để đảm bảo tính đầy đủ của các sơ đồ View of Participating Classes cho Mỗi trường hợp sử dụng trường hợp"
+        ],
+        "image": null
+      },
+      {
+        "text": "Đầu ra của thiết kế ca sử dụng là?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "mô hình thiết kế",
+          "các lớp phân tích",
+          "các lớp thiết kế",
+          "giao diện"
+        ],
+        "image": null
+      },
+      {
+        "text": "Đâu là ví dụ về môi trường thực thi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Máy chủ ứng dụng J2EE",
+          "Chuyển mạch Gigabit",
+          "Mạng riêng ảo",
+          "Máy tính cầm tay"
+        ],
+        "image": null
+      },
+      {
+        "text": "Mục đích của việc hợp nhất các lớp và Hệ thống con là đảm bảo _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Trách nhiệm của các phần tử thiết kế không trùng nhau",
+          "Mỗi hệ thống con có một thành phần hệ thống con tương ứng",
+          "Tất cả các lớp học được gán cho nhiều nhất một hệ thống con",
+          "Mỗi giao diện xác định có một API gắn kết và mạch lạc"
+        ],
+        "image": null
+      },
+      {
+        "text": "Đâu là hướng dẫn cho việc đóng gói các tương tác hệ thống con trong sơ đồ trình tự?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Thông điệp đến các hệ thống con phải tương ứng với hoạt động của giao diện hệ thống con.",
+          "Thông điệp từ các hệ thống con phải tương ứng với hoạt động của hệ thống con Thành phần.",
+          "Trong quá trình sử dụng Case Design, nên tạo sơ đồ tuần tự thứ cấp để Mô phỏng các tương tác trong các hệ thống con.",
+          "Một hệ thống con phải được biểu diễn trên sơ đồ tuần tự sử dụng hệ thống con của nó Thành phần."
+        ],
+        "image": null
+      },
+      {
+        "text": "Câu nào đúng với các phần tử trong hệ thống con và khả năng hiển thị công khai?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Không có yếu tố bên trong hệ thống con nên có tầm nhìn công khai.",
+          "Chỉ có tập con của các phần tử xác định API của các tiểu hệ thống nên có công khai Khả năng hiển thị.",
+          "Chỉ có lớp proxy proxy của hệ thống phụ nên có tầm nhìn công cộng.",
+          "Chỉ có các yếu tố tham khảo các lớp ngoài nên có tầm nhìn công cộng."
+        ],
+        "image": null
+      },
+      {
+        "text": "Hai loại phụ thuộc nào có thể được sử dụng từ một hệ thống con? (Chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+          "<< use >> phụ thuộc đến một giao diện của hệ thống con",
+          "một << import >> phụ thuộc vào một gói có chứa các lớp đã sử dụng",
+          "một mối quan hệ << manifest >> với một nút trong mô hình Deployment",
+          "mối quan hệ << hiện thực >> với một hoặc nhiều sự kiện cộng tác"
+        ],
+        "image": null
+      },
+      {
+        "text": "Câu nào đúng về thiết kế các hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Chúng đại diện cho một khả năng độc lập với các giao diện rõ ràng.",
+          "Họ đóng gói một phần hành vi.",
+          "Chúng mô hình một biến thể thực hiện duy nhất.",
+          "Họ chỉ có thể chứa các lớp thiết kế."
+        ],
+        "image": null
+      },
+      {
+        "text": "Trên một sơ đồ tuần tự, những gì được sử dụng để đại diện cho Hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "một thành phần hệ thống con",
+          "một giao diện mà hệ thống con nhận ra",
+          "một proxy hệ thống con",
+          "một lớp hệ thống con"
+        ],
+        "image": null
+      },
+      {
+        "text": "Trong Thiết kế Subsystem, những gì xảy ra ở bước này, phân phối Trách nhiệm hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Các trách nhiệm của hệ thống con được phân bổ cho các phần tử thiết kế nội bộ của nó.",
+          "Mỗi hệ thống con được kiểm tra để đảm bảo nó có một bộ trách nhiệm nhất quán Và trách nhiệm không nhất quán được gán lại cho các hệ thống con khác.",
+          "Thư viện và các API bên ngoài được xác định để nhận ra hành vi của hệ thống con.",
+          "Các cơ chế phân phối được trình bày chi tiết cho việc hiển thị các giao diện hệ thống con."
+        ],
+        "image": null
+      },
+      {
+        "text": "Trong quá trình thiết kế hệ thống con, có bao nhiêu biểu đồ tương tác (Trình tự hoặc truyền thông) nên được tạo ra?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "ít nhất một sơ đồ tương tác cho mỗi hoạt động giao diện",
+          "một biểu đồ tương tác cho mỗi thực hiện giao diện",
+          "ít nhất một sơ đồ tương tác cho mỗi lần sử dụng một giao diện bên ngoài",
+          "một sơ đồ tương tác cho mỗi lớp thực hiện"
+        ],
+        "image": null
+      },
+      {
+        "text": "Mục đích chính thiết kế hệ thống con là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Đóng gói hành vi",
+          "Cung cấp quản lý cấu hình và tổ chức mô hình",
+          "Gói các lớp thiết kế tương tự nhau",
+          "Đại diện cho các hệ thống bên ngoài"
+        ],
+        "image": null
+      },
+      {
+        "text": "Mục đích của thiết kế hệ thống con là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "định nghĩa các hành vi được xác định trong các giao diện của hệ thống con dưới dạng cộng tác của các phần tử thiết kế",
+          "hoàn thành các chi tiết của mỗi giao diện thực hiện bởi các hệ thống con trong một ứng dụng",
+          "phá vỡ hệ thống thành các hệ thống con để phân bổ các hệ thống con tới Đội phát triển",
+          "xác định mỗi cấp từng hệ thống sẽ được thực hiện và Cơ chế truyền thông được sử dụng giữa chúng"
+        ],
+        "image": null
+      },
+      {
+        "text": "Câu nào đúng với gói và hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+          "Một hệ thống con cung cấp hành vi.",
+          "Một gói không thể chứa một hệ thống con.",
+          "Một gói cung cấp hành vi.",
+          "Bạn sử dụng một gói khi bạn cần đóng gói hành vi."
+        ],
+        "image": null
+      }
+]

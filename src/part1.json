@@ -1,0 +1,278 @@
+[
+    {
+        "text": "Mục tiêu của phân tích là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
+            "chuyển các yêu cầu chức năng thành mã",
+            "chuyển các yêu cầu thành thiết kế hệ thống",
+            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
+        ],
+        "image": null
+    },
+    {
+        "text": "Ba mục đích của Phân tích và Thiết kế là gì? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "Chuyển các yêu cầu thành thiết kế của hệ thống",
+            "phát triển kiến trúc vững chắc cho hệ thống",
+            "để thích ứng với thiết kế phù hợp với môi trường thực hiện",
+            "Giới hạn phạm vi hệ thống và mô tả những gì nó phải làm"
+        ],
+        "image": null
+    },
+    {
+        "text": "3 nguồn dùng để xác định Key Abstractions là gì?",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "kiến thức về miền",
+            "yêu cầu",
+            "bảng thuật ngữ",
+            "các lớp thiết kế"
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích của phân tích Kiến trúc là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để xác định kiến trúc ứng cử viên cho hệ thống",
+            "để chi tiết hóa thiết kế của hệ thống",
+            "xem xét kiến trúc của hệ thống",
+            "để xác định các lớp (layer) của kiến trúc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong quá trình phân tích kiến trúc, một kiến trúc sư phần mềm muốn giảm thiểu sự phức tạp của hệ thống và tăng cường tính nhất quán. Kiến trúc sư đó nên xác định cái gì để đạt được điều đó?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "cơ chế phân tích",
+            "quy tắc code",
+            "Hiện thực hóa ca sử dụng",
+            "cơ chế thiết kế"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong quá trình phân tích kiến trúc, một kiến trúc sư phần mềm muốn giảm thiểu sự phức tạp của hệ thống và tăng cường tính nhất quán. Kiến trúc sư đó nên xác định cái gì để đạt được điều đó?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "cơ chế phân tích",
+            "quy tắc code",
+            "Hiện thực hóa ca sử dụng",
+            "cơ chế thiết kế"
+        ],
+        "image": null
+    },
+    {
+        "text": " Ba loại cơ cấu kiến trúc là gì? (chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "cơ chế phân tích",
+            "cơ chế cài đặt (implementation)",
+            "cơ chế thiết kế",
+            "cơ chế yêu cầu"
+        ],
+        "image": null
+    },
+    {
+        "text": "Khung nhìn nào tập trung vào việc hiện thức hóa vật lý của hệ thống?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Khung nhìn triển khai",
+            "Khung nhìn logic",
+            "Khung nhìn quá trình",
+            " Khung nhìn ca sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": " Quan điểm nào KHÔNG là một phần của Mô hình khung nhìn RUP 4 +1?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Khung nhìn phân phối",
+            "Khung nhìn logic",
+            "Khung nhìn quá trình",
+            " Khung nhìn ca sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào đúng về các mẫu?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " Các mẫu cung cấp giải pháp chung cho một vấn đề chung.",
+            " Các mẫu chỉ tồn tại ở cấp Thiết kế",
+            "Các mẫu chỉ tồn tại ở cấp Kiến trúc",
+            "Các mẫu chỉ được sử dụng trong Giai đoạn Lập trình."
+        ],
+        "image": null
+    },
+    {
+        "text": "Các lớp kiến trúc thường được mô phỏng trong UML bằng cách sử dụng một____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " Gói với kiểu mở rộng<< Lớp >>",
+            "hệ thống con với kiểu mở tộng << Lớp >>",
+            "lớp phức hợp với kiểu mở rộng << Lớp >>",
+            "Sơ đồ lớp có tiêu đề Layer"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các lớp phân tích là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " những phỏng đoán sớm về thành phần của hệ thống, thường thay đổi qua thời gian, hiếm khi tồn tại còn nguyên vẹn trong quá trình triển khai",
+            " Các lớp không đầy đủ đòi hỏi một lập trình viên để chính thức hoá chữ ký hoạt động và các loại thuộc tính trước khi chúng có thể được thực hiện",
+            "các lớp bên trong một hệ thống Các đối tượng nghiệp vụ hoặc mô hình miền, dạng UML",
+            "một nguyên mẫu của một giao diện người dùng hệ thống, được phát triển trong Giai đoạn Phân tích, cho phép người dùng xác định hệ thống nhìn và cảm nhận"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một kiến trúc sư có trách nhiệm tạo ra một mô hình phân tích cho một hệ thống. Khu vực tập trung nào là cần thiết cho việc tạo ra mô hình này?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " hành vi của các đối tượng bao gồm hệ thống",
+            "phần cứng mà trên đó hệ thống sẽ được triển khai",
+            "sự tiến hóa của các lớp phân tích thành các lớp thiết kế",
+            "yêu cầu hiệu năng của hệ thống"
+        ],
+        "image": null
+    },
+    {
+        "text": " Hai câu hỏi nào mà việc sử dụng bội số trong các quan hệ cho phép bạn trả lời? (chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Mối quan hệ có bắt buộc hay không?",
+            "Có bao nhiêu liên kết mà một đối tượng của một kiểu duy trì với các đối tượng của kiểu khác?",
+            "Là một đối tượng của một kiểu nhất định được phép tương tác với các đối tượng thuộc loại khác?",
+            "Mối quan hệ giữa vật thể vĩnh cửu hay tạm thời?"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai câu nào là đúng về việc hiện thực hóa ca sử dụng? (chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            " Cung cấp khả năng truy tìm nguồn gốc từ Phân tích và Thiết kế trở lại các yêu cầu.",
+            "Nó mô tả ca sử dụng trong sự cộng tác giữa các đối tượng.",
+            "Nó liệt kê các bước khác nhau được thực hiện bởi một trường hợp sử dụng.",
+            "Nó được tạo ra bởi Nhà phân tích Hệ thống."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong phân tích ca sử dụng, những gì thường được phân bổ cho các lớp điều khiển?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "hành vi cụ thể cho một ca sử dụng hoặc một phần của một luồng sự kiện rất quan trọng.",
+            " hành vi liên quan đến dữ liệu được đóng gói trong phần tóm tắt",
+            "hành vi liên quan đến giao tiếp với một diễn viên",
+            "hành vi cụ thể để thực thi quy tắc kinh doanh hoặc luồng công việc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong Phân tích ca Sử dụng, một thuộc tính nên được sử dụng thay vì một lớp khi thông tin _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            " được truy cập bởi các hành động get, set, hoặc thực hiện các phép biến đổi đơn giản",
+            " liên quan đến các thực thể trong mô hình kinh doanh hoặc miền",
+            "cần phải được giấu ở các phần khác của Mô hình Phân tích và không được chia sẻ",
+            " được gọi đến và sử dụng nhiều lần trong suốt quá trình sử dụng trường hợp"
+        ],
+        "image": null
+    },
+    {
+        "text": " Trong Phân tích ca sử dụng, tại sao các cơ chế phân tích được sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để giảm sự phức tạp và cải thiện tính nhất quán bằng cách cung cấp một cách viết tắt đại diện cho hành vi phức tạp",
+            " để đơn giản hóa nhiệm vụ tạo ra các trường hợp sử dụng thực hiện bằng cách cung cấp thuận tiện Viết tắt cho các nhiệm vụ lặp đi lặp lại",
+            "để thu thập các công việc chung vào một nơi, để dễ dàng gán chúng cho Nhà phát triển để thực hiện",
+            "để xác minh rằng các nhà thiết kế đã thực hiện các công việc phân tích một cách chính xác, theo Kiến trúc sư khuyến nghị"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong Phân tích ca Sử dụng, tại sao đôi khi cần thiết phải bổ sung cho mô tả ca sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Mô tả của từng ca sử dụng không phải lúc nào cũng đủ để tìm ra các lớp phân tích và các đối tượng của chúng.",
+            "Dòng các sự kiện trong trường hợp sử dụng đôi khi quá phức tạp để được Thực hiện",
+            "Các nhà thiết kế cần phải biết được dòng chảy trường hợp sử dụng đang được phát triển trong Lặp lại hiện tại.",
+            "Kiến trúc sư có thể cần điều chỉnh các yêu cầu không chính xác trước khi đưa ra Các nhà thiết kế."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong phân tích ca sử dụng, mục đích của bước gộp các lớp phân tích là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để đảm bảo rằng mỗi phân tích lớp đại diện cho một khái niệm duy nhất được xác định rõ ràng, với không có trách nhiệm chồng chéo",
+            " để thu thập các lớp phân tích từ mỗi trường hợp sử dụng thực hiện và đưa chúng vào Mô hình thiết kế",
+            "để đảm bảo trách nhiệm của mỗi lớp đều nhất quán và lớp Có một mục đích duy nhất được xác định rõ ràng",
+            "để tạo ra các gia đình lớp học ban đầu bằng cách sử dụng thừa kế để nhóm các lớp liên quan vào Cấu trúc cây"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai câu nào là đúng về các quy trình sử dụng theo ca sử dụng? (chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Các ca sử dụng ngắn gọn, đơn giản, và có thể hiểu được bởi một loạt các bên liên quan.",
+            "Các ca sử dụng giúp đồng bộ hóa nội dung của các mô hình khác nhau.",
+            "Ca sử dụng là một danh sách đầy đủ các yêu cầu chức năng.",
+            "Các ca sử dụng chỉ rõ hành vi của hệ thống sẽ được thực hiện như thế nào."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong phân tích ca sử dụng, có bao nhiêu biểu đồ tương tác (tuần tự hoặc giao tiếp) nên được rút ra cho mỗi ca sử dụng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đủ của mỗi loại để đảm bảo rằng tất cả các trách nhiệm của các lớp tham gia được xác định và hầu hết các luồng của sự kiện được kiểm tra",
+            " một cho dòng chảy chính và một cho mỗi luồng luân phiên của sự kiện trong trường hợp sử dụng",
+            "một trong mỗi loại cho dòng chảy chính và một trong mỗi loại cho mỗi dòng chảy thay thế Các sự kiện trong trường hợp sử dụng",
+            "một trong mỗi loại cho mỗi trường hợp sử dụng, với mỗi dòng chảy thay thế của các sự kiện được hiển thị như là một sự xuất hiện tương tác"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong phân tích ca sử dụng, chức năng của các lớp biên là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để tách các phần bên ngoài với các cơ chế bên trong và ngược lại",
+            "đại diện cho các màn hình trong giao diện người dùng",
+            "để xác định các giao diện chuyển vụ được hiển thị bởi lớp Business",
+            "để xác định các điểm vào hoặc rễ vào mô hình dữ liệu đối tượng chính"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các lớp phân tích tiến triển thành _____. (Chọn hai.)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "các lớp thiết kế",
+            "các hệ thống con",
+            "sử dụng trường hợp thực hiện",
+            "gói thiết kế",
+            "Kiến trúc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Tài liệu nào mô tả cơ chế thiết kế, bất kì sự ánh xạ nào giữa các cơ chế thiết kế và chi tiết đối với sự sử dụng của chúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Hướng dẫn thiết kế",
+            "Tài liệu Kiến trúc Phần mềm",
+            "Tài liệu tầm nhìn",
+            "Kế hoạch phát triển phần mềm"
+        ],
+        "image": null
+    }
+]

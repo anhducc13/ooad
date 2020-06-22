@@ -1,0 +1,278 @@
+[
+    {
+        "text": "Các thông tin được cung cấp trong sơ đồ, câu nào đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Animal có thể không có thể hiện trực tiếp.",
+            "Sư tử và Hổ giao tiếp với nhau.",
+            "Sư tử và Hổ giao tiếp với Động vật.",
+            "Các trường hợp của Động vật giao tiếp khác với trường hợp của Sư Tử hoặc Hổ"
+        ],
+        "image": "https://firebasestorage.googleapis.com/v0/b/my-project-1564732530421.appspot.com/o/ooad%2F50.png?alt=media&token=771726d0-ff91-4169-8d14-70f01adae1fa"
+    },
+    {
+        "text": "Một thuộc tính được gạch chân cho biết là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Thuộc tính được định nghĩa ở cấp lớp thay vì cấp thực thể.",
+            "Thuộc tính là read-only.",
+            "Thuộc tính này có nguồn gốc từ các thuộc tính khác.",
+            "Các thuộc tính duy nhất xác định trường hợp."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong sơ đồ, thuộc tính CourseOffering.numberOfStudents    Là một ví dụ của _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "một thuộc tính được thừa kế",
+            "một thiết kế xấu",
+            "một thuộc tính tĩnh",
+            "không chuẩn đặt tên"
+        ],
+        "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/95623960_682165675664924_6889303357171568815_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=mlTEPf8SvDIAX9B27xM&_nc_ht=scontent.fhan2-4.fna&oh=3599cb8daf3f3600384136f61a7e7e02&oe=5F165A77"
+    },
+    {
+        "text": "Ba hoạt động nào là yếu tố của thiết kế lớp?",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "xác định các lớp và các mối quan hệ hỗ trợ thực hiện một kiến trúc",
+            "Xác định và phân tích chuyển tiếp trạng thái trong các đối tượng của các lớp điều khiển trạng thái",
+            "làm mịn các mối quan hệ, các hoạt động và các thuộc tính",
+            "xác định các lớp mô hình miền vấn đề"
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào đúng với quá trình phát triển lặp đi lặp lại?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Kiểm tra và tích hợp diễn ra trong mỗi lần lặp.",
+            "Một sự lặp lại tập trung vào việc hoàn thành một phần các trường hợp sử dụng được lựa chọn.",
+            "Nó khuyến khích phản hồi của người dùng trong các lần lặp lại sau.",
+            "Đó là dựa trên phân hủy chức năng của một hệ thống."
+        ],
+        "image": null
+    },
+    {
+        "text": "Ba quy trình nào phù hợp nhất với UML? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "Theo ca sử dụng",
+            "Lặp và gia tăng",
+            "Kiến trúc tập trung",
+            "Thác nước phát triển dựa trên",
+            "Yêu cầu tập trung"
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "UML là một ngôn ngữ mô hình cho các bản thiết kế phần mềm.",
+            "UML là một quá trình phát triển cho các hệ thống thâm canh phần mềm.",
+            "UML là một ngôn ngữ phụ thuộc vào quá trình sử dụng để hiển thị phần mềm Hiện vật.",
+            "UML là một ngôn ngữ lập trình trực quan."
+        ],
+        "image": null
+    },
+    {
+        "text": "Tại sao đóng gói lại quan trọng? (Chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Nó đặt các hoạt động và các thuộc tính trong cùng một đối tượng.",
+            "Nó ngăn cản các đối tượng khác trực tiếp thay đổi các thuộc tính của một đối tượng.",
+            "Nó mô tả mối quan hệ giữa hai phân lớp.",
+            "Nó cho phép các đối tượng khác thay đổi hoạt động cá nhân và các thuộc tính của một đối tượng."
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai chức năng của mô hình trực quan là gì? (Chọn hai.)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "cải thiện giao tiếp và sự hiểu biết giữa các thành viên trong nhóm",
+            "tài liệu hệ thống hành vi và cấu trúc trước khi lập trình hệ thống",
+            "tạo ra một mô hình đại diện cho tất cả các quan điểm của hệ thống",
+            "đưa ra các quyết định thiết kế quan trọng trong mã"
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "UML là một ngôn ngữ mô hình cho các bản thiết kế phần mềm.",
+            "UML là một quá trình phát triển cho các hệ thống thâm canh phần mềm.",
+            "UML là một ngôn ngữ phụ thuộc vào quá trình sử dụng để hiển thị phần mềm Hiện vật.",
+            "UML là một ngôn ngữ lập trình trực quan."
+        ],
+        "image": null
+    },
+    {
+        "text": "3 điểm mà một lớp cấu trúc khác với một Lớp truyền thống? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "Nó xác định rõ ranh giới lớp thông qua một vỏ đóng gói.",
+            "Nó mang các giao diện công khai vào lớp thông qua các cổng.",
+            "Nó thể hiện vai trò của lớp.",
+            "Nó định nghĩa các thông điệp giữa chính nó và các lớp khác."
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là đặc điểm của một lớp có cấu trúc?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "có thể đóng nhiều vai trò khác nhau trên các đối tượng tương tác với nó",
+            "phải có một giao diện cho mỗi vai trò của nó chơi",
+            "có thể chỉ đóng một vai trò, cho dù có bao nhiêu đối tượng giao chuyển với nó",
+            "được giới hạn trong một vai trò, nhưng có thể có nhiều giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai câu nào đúng với giao diện? (Chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Giao diện nên có một mục đích rõ ràng.",
+            "Các lớp có thể có nhiều giao diện tùy thuộc vào mục đích của mỗi Giao diện nó thực hiện",
+            "Một giao diện duy nhất nên bao gồm nhiều phương pháp có thể, nếu không phải là tất cả các phương pháp, Có thể được chia sẻ bởi các đối tượng thực hiện giao diện.",
+            "Một giao diện nên được sử dụng để hạn chế các phương pháp được tiếp xúc với một khách hàng."
+        ],
+        "image": null
+    },
+    {
+        "text": "Một đối tượng được đặt tên trong UML là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Matt:Employee",
+            ":Employee",
+            "Matt::Employee",
+            "::employee"
+        ],
+        "image": null
+    },
+    {
+        "text": "Kiến trúc sư xem xét hai lớp. Lớp đầu tiên có những điều sau đây Các hoạt động: getName (), getSize (), getTotal () và findAverage (). Lớp thứ 2 có các hoạt động sau: getName (), getSize (), findAverage (), FindMinimum (), và findMaximum (). Hai lớp chia sẻ cùng Siêu lớp. Những hoạt động nào có thể chứa trong lớp cha?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "getName (), getSize () và findAverage ()",
+            "findMaximum (), findMinimum (), getSize () và getTotal",
+            "getName (), findAverage (), và findMaximum ()",
+            "getName (), getSize (), getTotal (), và findAverage ()"
+        ],
+        "image": null
+    },
+    {
+        "text": "Giao diện bắt buộc phải làm gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Sử dụng các dịch vụ mà người phân loại yêu cầu từ các nhà cung cấp vô danh",
+            "Đưa ra chuyển vụ cho người yêu cầu vô danh",
+            "Tuyên bố các chuyển vụ mà một phân loại cung cấp để cung cấp cho người yêu cầu vô danh",
+            "Phơi bày các phương pháp mà người yêu cầu phải sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai vấn đề quan trọng khi lập sơ đồ trạng thái? (Chọn hai.)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "Bất cứ khi nào một tin nhắn được nhận; Có thể có sự thay đổi của trạng thái.",
+            "Khi nào có sự thay đổi trạng thái, có sự chuyển tiếp.",
+            "Bất cứ khi nào một tin nhắn được nhận; Phải có sự thay đổi của nhà nước.",
+            "Thay đổi trạng thái có thể không thay đổi quá trình chuyển đổi."
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào là đúng về phụ thuộc vòng tròn?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "chúng phải bị tránh.",
+            "Chúng không quan trọng.",
+            "chúng bị cấm.",
+            "Khi có nhiều hơn hai gói, chúng không liên quan."
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào là đúng về các thuộc tính?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Thay đổi giá trị từ đối tượng sang đối tượng của cùng một lớp.",
+            "Chúng không thể thay đổi khi đối tượng được khởi tạo.",
+            "Nó chỉ có thể là nguyên thủy.",
+            "chúng được yêu cầu cho mỗi lớp."
+        ],
+        "image": null
+    },
+    {
+        "text": "Các đối tượng đa hình _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "có thể có cùng tên hoạt động nhưng các hoạt động thực hiện khác nhau",
+            "phải có các thuộc tính giống nhau",
+            "chia sẻ tất cả các hoạt động tương tự, và các hoạt động thực hiện cùng",
+            "chỉ có thể được thực hiện thông qua các giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Hai đặc điểm nào làm tất cả các đối tượng có? (Chọn hai)",
+        "numOfRightAnswer": 2,
+        "answers": [
+            "trạng thái và hành vi",
+            "một định danh độc nhất",
+            "nguyên thủy",
+            "giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Điều gì sẽ xảy ra khi một lớp cha được thay đổi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Tất cả các lớp con kế thừa sự thay đổi.",
+            "Các hoạt động của phân lớp phải được thay đổi.",
+            "Các phép toán bổ sung trong lớp con không liên quan đến lớp bậc cao phải thay đổi.",
+            "Chỉ có các hoạt động của lớp bậc cao mới được kế thừa."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trạng thái nào KHÔNG chứa một trạng thái khác?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Trạng thái đơn giản",
+            "Nhà nước Top",
+            "Nhà nước tổng hợp",
+            "Trạng thái dưới"
+        ],
+        "image": null
+    },
+    {
+        "text": "Câu nào đúng về nhóm các phần tử thành một Gói?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Các thành phần trong một gói nên chia sẻ một nhóm hợp lý, thông thường.",
+            "Gói nên chứa một số lượng nhỏ các yếu tố để tránh nhầm lẫn.",
+            "Các gói chỉ nên sử dụng cho các dự án lớn đòi hỏi một số lượng lớn Các yếu tố.",
+            "Gói không được chứa các gói khác."
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong sơ đồ tuần tự, những gì có thể được xác định bởi các tương tác giữa những người tham gia trong các tương tác?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "cả dịch vụ được cung cấp và yêu cầu cho các giao diện",
+            "chỉ có các chuyển vụ được cung cấp bởi một giao diện",
+            "chỉ các chuyển vụ theo yêu cầu của một giao diện",
+            "tên của giao diện"
+        ],
+        "image": null
+    }
+]
