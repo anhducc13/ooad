@@ -6,7 +6,6 @@ import {
   SyncOutlined,
 } from "@ant-design/icons";
 import { Checkbox, Radio, Card, notification, List } from "antd";
-import _ from "lodash";
 
 const { Group } = Checkbox;
 
@@ -53,10 +52,10 @@ const Content = (props) => {
     cbCheckAnswer(no, undefined, multiple ? [] : undefined);
   };
   const actions = [
-    <ArrowLeftOutlined key="left" onClick={onPrevQ} />,
-    <SyncOutlined key="reset" onClick={resetAnswer} />,
-    <CheckOutlined key="checkout" onClick={checkAnswer} />,
-    <ArrowRightOutlined key="right" onClick={onNextQ} />,
+    <ArrowLeftOutlined title="Câu trước" style={{ fontSize: 25, color: '#1890FF' }} key="left" onClick={onPrevQ} />,
+    <SyncOutlined title="Làm lại" style={{ fontSize: 25, color: '#F56A00' }} key="reset" onClick={resetAnswer} />,
+    <CheckOutlined title="Check" style={{ fontSize: 25, color: '#1890FF' }} key="checkout" onClick={checkAnswer} />,
+    <ArrowRightOutlined title="Câu sau" style={{ fontSize: 25, color: '#1890FF' }} key="right" onClick={onNextQ} />,
   ];
 
   useEffect(() => {
@@ -66,7 +65,7 @@ const Content = (props) => {
 
   return (
     <Card bodyStyle={{ minHeight: 300 }} actions={actions}>
-      <div style={{ fontSize: 20 }} className="text-primary">
+      <div style={{ fontSize: 22 }} className="text-primary">
         {text}
       </div>
       {image && <img className="mt-1" src={image} width="400" height="400" />}
@@ -76,6 +75,7 @@ const Content = (props) => {
             {answers.map((el) => (
               <React.Fragment key={el.id}>
                 <Checkbox
+                  style={{ fontSize: 18, textOverflow: 'ellipsis' }}
                   disabled={isTrue || isFalse}
                   className="my-1"
                   value={el.id}
@@ -87,24 +87,25 @@ const Content = (props) => {
             ))}
           </Group>
         ) : (
-          <Radio.Group
-            value={selectRadio}
-            onChange={(e) => setSelectRadio(e.target.value)}
-          >
-            {answers.map((el) => (
-              <React.Fragment key={el.id}>
-                <Radio
-                  disabled={isTrue || isFalse}
-                  className="my-1"
-                  value={el.id}
-                >
-                  {el.text}
-                </Radio>
-                <br />
-              </React.Fragment>
-            ))}
-          </Radio.Group>
-        )}
+            <Radio.Group
+              value={selectRadio}
+              onChange={(e) => setSelectRadio(e.target.value)}
+            >
+              {answers.map((el) => (
+                <React.Fragment key={el.id}>
+                  <Radio
+                    style={{ fontSize: 18, whiteSpace: 'normal' }}
+                    disabled={isTrue || isFalse}
+                    className="my-1"
+                    value={el.id}
+                  >
+                    {el.text}
+                  </Radio>
+                  <br />
+                </React.Fragment>
+              ))}
+            </Radio.Group>
+          )}
       </div>
       {showAnswer && (
         <div className="my-3">
