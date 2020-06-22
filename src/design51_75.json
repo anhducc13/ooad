@@ -1,9 +1,9 @@
 [
     {
-        "text": "Phát biểu nào là đúng?",
+        "text": "Thuộc tính được gạch chân chỉ ra điều gì?",
         "numOfRightAnswer": 1,
         "answers": [
-            "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
+            "Thuộc tính được định nghĩa ở cấp phân loại thay vì cấp thể hiện",
             "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
             "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
             "UML là ngôn ngữ lập trình trực quan"
@@ -29,6 +29,249 @@
             "phải có một giao diện cho mỗi vai trò",
             "chỉ có thể đóng một vai trò, bất kể có bao nhiêu đối tượng giao dịch với nó",
             "bị giới hạn ở một vai trò, nhưng có thể có nhiều giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Liên quan đến persistence, hai chức năng của giao dịch là gì? (Chọn hai.)",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đảm bảo rằng một tập hợp các hoạt động được thực hiện hoặc hoàn toàn hoặc không",
+            "đảm bảo rằng các bộ đối tượng chuyển từ trạng thái nhất quán này sang trạng thái nhất quán khác",
+            "cho phép một nhà thiết kế xác định có chọn lọc các hoạt động sẽ được ưu tiên thực hiện khi thiếu tài nguyên hệ thống",
+            "đơn giản hóa công việc thiết kế, do đó không cần phải xem xét một cách rõ ràng trong quá trình Design Use-case",
+            "chỉ đơn giản là thiết kế công việc, bằng cách cung cấp các cách tiếp cận được tiêu chuẩn hóa để thể hiện các đối tượng liên tục trong UML"
+        ],
+        "image": null
+    },
+    {
+        "text": "Ba mục đích của Thiết kế ca sử dụng là gì? (Chọn ba)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "để tinh chỉnh việc hiện thực hóa ca sử dụng về mặt tương tác",
+            "để tinh chỉnh các yêu cầu về hoạt động của các lớp thiết kế",
+            "để tinh chỉnh các yêu cầu về hoạt động của các hệ thống con thiết kế và / hoặc giao diện của chúng",
+            "để đảm bảo tính đầy đủ của sơ đồ Chế độ xem các lớp tham gia cho mỗi lần thực hiện ca sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một chế tác đầu ra của Design use Case là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Mô hình thiết kế",
+            "lớp phân tích",
+            "lớp thiết kế",
+            "giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là một ví dụ về Môi trường thực thi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Máy chủ ứng dụng J2EE",
+            "Chuyển mạng Gigabit",
+            "mạng riêng ảo",
+            "máy tính cầm tay"
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích của các lớp và các hệ thống con hợp nhất là để đảm bảo _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "trách nhiệm của các yếu tố thiết kế không chồng chéo",
+            "mỗi hệ thống con có một thành phần hệ thống con tương ứng",
+            "tất cả các lớp được gán cho tối đa một hệ thống con",
+            "mỗi giao diện được xác định có API gắn kết và mạch lạc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đây là hướng dẫn để đóng gói các tương tác của hệ thống con theo trình tự sơ đồ?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Thông báo cho các hệ thống con phải tương ứng với các hoạt động giao diện của hệ thống con.",
+            "Thông điệp từ các hệ thống con phải tương ứng với hoạt động của thành phần hệ thống con.",
+            "Trong quá trình thiết kế ca sử dụng, nên tạo sơ đồ trình tự thứ cấp để mô hình hóa các tương tác trong các hệ thống con.",
+            "Một hệ thống con nên được biểu diễn trên sơ đồ trình tự bằng cách sử dụng thành phần hệ thống con của nó."
+        ],
+        "image": null
+    },
+    {
+        "text": "Ví dụ nào về đầu nối?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Giao thức HTTP *",
+            "Đĩa cứng SCSI",
+            "Cung cấp điện liên tục",
+            "Lớp JDBC"
+        ],
+        "image": null
+    },
+    {
+        "text": "Đây là một tạo phẩm đầu vào cho hoạt động Xác định các thành phần thiết kế?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Tài liệu kiến trúc phần mềm",
+            "Mô hình triển khai",
+            "Mô hình thực hiện",
+            "Kiến trúc tham khảo"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các hệ thống con bổ sung có thể được phát hiện trong quá trình Thiết kế ca sử dụng bằng cách lưu ý",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "luồng con chung giữa các đối tượng trên một số sơ đồ trình tự",
+            "các đối tượng tương tự trên một số sơ đồ trình tự",
+            "một chuỗi chuyển đổi trạng thái nhất quán cho nhiều lớp liên quan đến việc thực hiện ca sử dụng",
+            "các lớp thiết kế giống nhau liên quan đến nhiều hơn một trường hợp sử dụng"
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích của hoạt động Xác định cơ chế thiết kế là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "tinh chỉnh các cơ chế phân tích thành các cơ chế thiết kế, dựa trên các ràng buộc áp đặt bởi môi trường thực hiện",
+            "để tinh chỉnh các cơ chế phân tích và chỉ định thực hiện chính xác của cơ chế",
+            "để cung cấp một tập hợp các dịch vụ được sử dụng bởi các đối tượng phân tích",
+            "để xác định các trình giữ chỗ thiết kế trong kiến trúc để nỗ lực kiến trúc vẫn được chú trọng và ít có khả năng bị bỏ qua"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong Thiết kế hệ thống con, có bao nhiêu sơ đồ tương tác (trình tự hoặc giao tiếp) nên được tạo ra?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "ít nhất một sơ đồ tương tác cho mỗi hoạt động giao diện",
+            "một sơ đồ tương tác trên mỗi thực hiện giao diện",
+            "ít nhất một sơ đồ tương tác cho mỗi lần sử dụng giao diện bên ngoài",
+            "một sơ đồ tương tác cho mỗi lớp thực hiện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Các phần tử UML nào được sử dụng để mô tả kiến trúc vật lý của một",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "nút và đầu nối",
+            "các lớp học và các mối quan hệ",
+            "đối tượng và tin nhắn",
+            "hệ thống con và phụ thuộc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Khi xác định giao diện trong hoạt động Xác định thành phần thiết kế, Phát biểu nào là đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Các giao diện nên được đóng gói riêng biệt với các yếu tố nhận ra chúng.",
+            "Các lớp không nên nhận ra một giao diện.",
+            "Mỗi hệ thống con chỉ nhận ra một giao diện.",
+            "Các giao diện cần được xác định trước khi các hệ thống con được tạo."
+        ],
+        "image": null
+    },
+    {
+        "text": "Khi xác định giao diện trong hoạt động Xác định thành phần thiết kế, Phát biểu nào là đúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Các giao diện nên được đóng gói riêng biệt với các yếu tố nhận ra chúng.",
+            "Các lớp không nên nhận ra một giao diện.",
+            "Mỗi hệ thống con chỉ nhận ra một giao diện.",
+            "Các giao diện cần được xác định trước khi các hệ thống con được tạo."
+        ],
+        "image": null
+    },
+    {
+        "text": "Phát biểu nào là đúng về các hệ thống con thiết kế?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Chúng đại diện cho một khả năng độc lập với giao diện rõ ràng.",
+            "Họ đóng gói một phần hành vi.",
+            "Họ mô hình một biến thể thực hiện duy nhất.",
+            "Chúng chỉ có thể chứa các lớp thiết kế."
+        ],
+        "image": null
+    },
+    {
+        "text": "Phát biểu nào là đúng về các gói và hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Một gói cung cấp hành vi.",
+            "Một gói không thể chứa một hệ thống con.",
+            "Một hệ thống con cung cấp hành vi.",
+            "Bạn sử dụng một gói khi bạn cần đóng gói hành vi."
+        ],
+        "image": null
+    },
+    {
+        "text": "Tạo tác đầu ra của Thiết kế ca sử dụng là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Mô hình thiết kế",
+            "lớp phân tích",
+            "lớp thiết kế",
+            "giao diện"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trên sơ đồ trình tự, cái gì được sử dụng để thể hiện một hệ thống con cụ thể?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "một thành phần hệ thống con",
+            "một giao diện mà hệ thống con nhận ra",
+            "một proxy hệ thống con",
+            "một lớp hệ thống con"
+        ],
+        "image": null
+    },
+    {
+        "text": "Ở trạng thái của máy trạng thái, hành vi có thể được xác định _____.",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "khi đạt đến một trạng thái",
+            "khi rời khỏi một tiểu bang",
+            "trong một trạng thái",
+            "trước khi đạt đến một trạng thái"
+        ],
+        "image": null
+    },
+    {
+        "text": "Thực thể nào có ranh giới và danh tính được xác định rõ ràng gói gọn trạng thái và hành vi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đối tượng",
+            "Lớp",
+            "thành phần",
+            "gói"
+        ],
+        "image": null
+    },
+    {
+        "text": "Tài liệu sơ đồ trình tự bổ sung, dưới dạng ghi chú và tập lệnh, thường được sử dụng cho _____. (Chọn ba.)",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "mô tả thời gian cần thiết giữa các tin nhắn",
+            "cung cấp chi tiết về hành vi có điều kiện",
+            "các điểm mở rộng tương quan trong trường hợp sử dụng với các vị trí cụ thể trong sơ đồ trình tự",
+            "chỉ định các thuộc tính cho các đối tượng xuất hiện trong sơ đồ"
+        ],
+        "image": null
+    },
+    {
+        "text": "Mục đích chính của hệ thống con thiết kế là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đóng gói hành vi",
+            "cung cấp quản lý cấu hình và tổ chức mô hình",
+            "gói các lớp thiết kế tương tự với nhau",
+            "đại diện cho hệ thống bên ngoài"
         ],
         "image": null
     }

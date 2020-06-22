@@ -1,34 +1,254 @@
 [
     {
-        "text": "Phát biểu nào là đúng?",
+        "text": "Trong Thiết kế hệ thống con, điều gì xảy ra trong bước, Phân phối trách nhiệm của hệ thống con? ",
         "numOfRightAnswer": 1,
         "answers": [
-            "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
-            "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
-            "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
-            "UML là ngôn ngữ lập trình trực quan"
+            "Các trách nhiệm của hệ thống con được phân bổ cho các yếu tố thiết kế bên trong của nó. ",
+            "Mỗi hệ thống con được kiểm tra để đảm bảo nó có một tập hợp trách nhiệm nhất quán và trách nhiệm không nhất quán được gán lại cho các hệ thống con khác. ",
+            "Thư viện và API bên ngoài được xác định để nhận ra hành vi của hệ thống con. ",
+            "Cơ chế phân phối được chi tiết để lộ giao diện hệ thống con."
         ],
         "image": null
     },
     {
-        "text": "Chỉ ra ba cách mà một lớp có cấu trúc khác với một lớp truyền thống? (Chọn ba)",
+        "text": "Thuộc tính được gạch chân chỉ ra điều gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Thuộc tính được định nghĩa ở cấp phân loại thay vì cấp thể hiện.",
+            "Thuộc tính là chỉ đọc.",
+            "Thuộc tính có nguồn gốc từ các thuộc tính khác.",
+            "Thuộc tính xác định duy nhất các thể hiện."
+        ],
+        "image": null
+    },
+    {
+        "text": "Artifacts (ko biết dịch) là các thực thể mà _____. ",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "được triển khai trên các nút vật lý ",
+            "máy chủ chạy phần mềm ",
+            "là kết quả của biến đổi mô hình ",
+            "được lưu trữ trong bộ đệm của trình duyệt"
+        ],
+        "image": null
+    },
+    {
+        "text": "Tài liệu quy trình nào mô tả các cơ chế thiết kế, mọi ánh xạ giữa các cơ chế thiết kế, và các chi tiết liên quan đến việc sử dụng chúng?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Tài liệu tầm nhìn",
+            "Tài liệu kiến trúc phần mềm",
+            "Hướng dẫn thiết kế",
+            "Kế hoạch phát triển phần mềm"
+        ],
+        "image": null
+    },
+    {
+        "text": "Phát biểu nào là đúng về các gói và hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Một hệ thống con cung cấp hành vi.",
+            "Một gói không thể chứa một hệ thống con.",
+            "Một gói cung cấp hành vi.",
+            "Bạn sử dụng một gói khi bạn cần đóng gói hành vi."
+        ],
+        "image": null
+    },
+    {
+        "text": "Nhiệm vụ nào được thực hiện trong quá trình sàng lọc thực hiện trường hợp sử dụng? ",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "mô hình quan hệ lớp liên kết",
+            "xác định các lớp tham gia ",
+            "phân bổ trách nhiệm giữa các lớp ",
+            "mô hình tin nhắn giữa các lớp "
+        ],
+        "image": null
+    },
+    {
+        "text": "Nhiệm vụ nào được thực hiện trong quá trình sàng lọc thực hiện trường hợp sử dụng? ",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "mô hình quan hệ lớp liên kết",
+            "xác định các lớp tham gia ",
+            "phân bổ trách nhiệm giữa các lớp ",
+            "mô hình tin nhắn giữa các lớp "
+        ],
+        "image": null
+    },
+    {
+        "text": "Nhiệm vụ nào được thực hiện trong quá trình sàng lọc thực hiện trường hợp sử dụng? ",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "mô hình quan hệ lớp liên kết",
+            "xác định các lớp tham gia ",
+            "phân bổ trách nhiệm giữa các lớp ",
+            "mô hình tin nhắn giữa các lớp "
+        ],
+        "image": null
+    },
+    {
+        "text": "Xác định các yếu tố thiết kế là một phần của chi tiết quy trình công việc?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Tinh chỉnh kiến trúc",
+            "Xác định kiến trúc ứng viên",
+            "Thành phần thiết kế",
+            "Thực hiện kiến trúc"
+        ],
+        "image": null
+    },
+    {
+        "text": "Tài liệu sơ đồ trình tự bổ sung, dưới dạng ghi chú và tập lệnh, thường được sử dụng cho _____. (Chọn ba.)",
         "numOfRightAnswer": 3,
         "answers": [
-            "Nó xác định rõ ràng ranh giới lớp thông qua lớp vỏ đóng gói",
-            "Nó mang giao diện công cộng vào lớp thông qua các cổng",
-            "Nó cho thấy vai trò của lớp",
-            "Nó định nghĩa các thông điệp giữa chính nó và các lớp khác"
+            "mô tả thời gian cần thiết giữa các tin nhắn",
+            "cung cấp chi tiết về hành vi có điều kiện",
+            "các điểm mở rộng tương quan trong trường hợp sử dụng với các vị trí cụ thể trong sơ đồ trình tự",
+            "chỉ định các thuộc tính cho các đối tượng xuất hiện trong sơ đồ"
         ],
         "image": null
     },
     {
-        "text": "Đâu là một đặc điểm của một lớp có cấu trúc?",
+        "text": "Loại cơ chế nào là một đầu nối trên sơ đồ triển khai?",
         "numOfRightAnswer": 1,
         "answers": [
-            "có thể đóng nhiều vai trò khác nhau trên các đối tượng tương tác với nó",
-            "phải có một giao diện cho mỗi vai trò",
-            "chỉ có thể đóng một vai trò, bất kể có bao nhiêu đối tượng giao dịch với nó",
-            "bị giới hạn ở một vai trò, nhưng có thể có nhiều giao diện"
+            "giao tiếp",
+            "dự phòng",
+            "giao dịch",
+            "tính toán"
+        ],
+        "image": null
+    },
+    {
+        "text": "Loại cơ chế nào là một đầu nối trên sơ đồ triển khai?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "giao tiếp",
+            "dự phòng",
+            "giao dịch",
+            "tính toán"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong một sự phụ thuộc, thông qua tham chiếu nào mà lớp khách hàng có được khả năng hiển thị cho nhà cung cấp?",
+        "numOfRightAnswer": 3,
+        "answers": [
+            "tài liệu tham khảo địa phương",
+            "tài liệu tham số",
+            "tài liệu tham khảo toàn cầu",
+            "tham chiếu trường"
+        ],
+        "image": null
+    },
+    {
+        "text": "Trong hoạt động Phân tích và Thiết kế, các hệ thống con được ánh xạ tới các lớp phân tích nào?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Xác định các yếu tố thiết kế",
+            "Phân tích kiến trúc",
+            "Xác định hệ thống con",
+            "Kết hợp các yếu tố thiết kế hiện có"
+        ],
+        "image": null
+    },
+    {
+        "text": "Một cơ chế thiết kế _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "giả định một số chi tiết của môi trường thực hiện, nhưng không gắn liền với việc thực hiện cụ thể",
+            "nắm bắt các khía cạnh chính của một giải pháp theo cách độc lập với việc thực hiện",
+            "chỉ định thực hiện chính xác cơ chế và bị ràng buộc với một công nghệ, ngôn ngữ thực hiện hoặc nhà cung cấp nhất định",
+            "giống như một mẫu thiết kế"
+        ],
+        "image": null
+    },
+    {
+        "text": "Thực thể nào có ranh giới và danh tính được xác định rõ ràng gói gọn trạng thái và hành vi?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "đối tượng",
+            "lớp",
+            "thành phần",
+            "gói"
+        ],
+        "image": null
+    },
+    {
+        "text": "Tại sao bạn sử dụng giao diện hệ thống con thay vì phiên bản hệ thống con trên sơ đồ tuần tự?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "để thực hiện các trường hợp sử dụng dễ dàng thay đổi",
+            "để dễ dàng mô hình hóa các hệ thống con trong Thiết kế hệ thống con",
+            "để dễ dàng bảo trì sơ đồ trình tự khi chữ ký tin nhắn thay đổi",
+            "để giảm số lượng các lớp cần thiết để thực hiện hệ thống con"
+        ],
+        "image": null
+    },
+    {
+        "text": "Artifacts (ko biết dịch) là các thực thể mà _____. ",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "được triển khai trên các nút vật lý ",
+            "máy chủ chạy phần mềm ",
+            "là kết quả của biến đổi mô hình ",
+            "được lưu trữ trong bộ đệm của trình duyệt"
+        ],
+        "image": null
+    },
+    {
+        "text": "Khi xác định các yếu tố thiết kế, một lớp phân tích đơn giản sẽ ánh xạ tới a (n) _____.",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "lớp thiết kế",
+            "lớp học tích cực",
+            "Giao diện",
+            "hệ thống con"
+        ],
+        "image": null
+    },
+    {
+        "text": "Phát biểu nào là đúng về các yếu tố trong hệ thống con và công khai hiển thị?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Không có yếu tố bên trong hệ thống con nên có tầm nhìn công khai.",
+            "Chỉ tập hợp con của các phần tử xác định API hệ thống con mới có khả năng hiển thị công khai.",
+            "Chỉ có lớp proxy hệ thống con nên có khả năng hiển thị công khai.",
+            "Chỉ các phần tử tham chiếu các lớp bên ngoài mới có khả năng hiển thị công khai."
+        ],
+        "image": null
+    },
+    {
+        "text": "Đâu là một hướng dẫn để đóng gói các tương tác hệ thống con theo trình tự sơ đồ?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Thông báo cho các hệ thống con phải tương ứng với các hoạt động giao diện của hệ thống con.",
+            "Thông điệp từ các hệ thống con phải tương ứng với hoạt động của thành phần hệ thống con.",
+            "Trong quá trình thiết kế ca sử dụng, nên tạo sơ đồ trình tự thứ cấp để mô hình hóa các tương tác trong các hệ thống con.",
+            "Một hệ thống con nên được biểu diễn trên sơ đồ trình tự bằng cách sử dụng thành phần hệ thống con của nó."
+        ],
+        "image": null
+    },
+    {
+        "text": "Điều gì xác định trách nhiệm của hệ thống con?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "hoạt động của các giao diện mà nó thực hiện",
+            "hành vi của lớp bên trong của nó",
+            "việc thực hiện ca sử dụng trong đó hệ thống con xuất hiện",
+            "các hoạt động trên một lớp có trong hệ thống con"
+        ],
+        "image": null
+    },
+    {
+        "text": "Phát biểu nào là đúng về các hệ thống con thiết kế?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "Chúng đại diện cho một khả năng độc lập với giao diện rõ ràng.",
+            "Họ đóng gói một phần hành vi.",
+            "Họ mô hình một biến thể thực hiện duy nhất.",
+            "Chúng chỉ có thể chứa các lớp thiết kế."
         ],
         "image": null
     }

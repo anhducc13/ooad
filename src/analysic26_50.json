@@ -1,35 +1,267 @@
 [
     {
-        "text": "Phát biểu nào là đúng?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
-            "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
-            "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
-            "UML là ngôn ngữ lập trình trực quan"
+        "text":"Hai tuyên bố nào là đúng về thực hiện ca sử dụng? (Chọn hai.)",
+        "numOfRightAnswer":2,
+        "answers":[
+            "Nó cung cấp khả năng truy nguyên từ Phân tích và Thiết kế trở lại các yêu cầu.",
+            "Nó mô tả trường hợp sử dụng dưới dạng các đối tượng cộng tác.",
+            "Nó liệt kê các bước khác nhau được thực hiện bởi một ca sử dụng.",
+            "Nó được tạo ra bởi Nhà phân tích hệ thống."
         ],
-        "image": null
+        "image":null
     },
     {
-        "text": "Chỉ ra ba cách mà một lớp có cấu trúc khác với một lớp truyền thống? (Chọn ba)",
-        "numOfRightAnswer": 3,
-        "answers": [
-            "Nó xác định rõ ràng ranh giới lớp thông qua lớp vỏ đóng gói",
-            "Nó mang giao diện công cộng vào lớp thông qua các cổng",
-            "Nó cho thấy vai trò của lớp",
-            "Nó định nghĩa các thông điệp giữa chính nó và các lớp khác"
+        "text":"Trạng thái nào KHÔNG chứa trạng thái khác?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Trạng thái đơn giản",
+            "Trạng thái đáy.",
+            "Trạng thái hỗn hợp",
+            "Nhà nước hàng đầu"
         ],
-        "image": null
+        "image":null
     },
     {
-        "text": "Đâu là một đặc điểm của một lớp có cấu trúc?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "có thể đóng nhiều vai trò khác nhau trên các đối tượng tương tác với nó",
-            "phải có một giao diện cho mỗi vai trò",
-            "chỉ có thể đóng một vai trò, bất kể có bao nhiêu đối tượng giao dịch với nó",
-            "bị giới hạn ở một vai trò, nhưng có thể có nhiều giao diện"
+        "text":"Phát biểu nào là đúng về việc nhóm các phần tử vào một gói?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Các phần tử trong một gói nên chia sẻ một nhóm hợp lý, phổ biến.",
+            "Các gói nên chứa một số lượng nhỏ các yếu tố để tránh nhầm lẫn.",
+            "Các gói chỉ nên được sử dụng cho các dự án lớn đòi hỏi một số lượng lớn các yếu tố.",
+            "Các gói không được chứa các gói khác"
         ],
-        "image": null
+        "image":null
+    },
+    {
+        "text":"ba loại cơ chế kiến trúc là gì? (Chọn ba.)",
+        "numOfRightAnswer":3,
+        "answers":[
+            "cơ chế phân tích",
+            "cơ chế thực hiện",
+            "cơ chế thiết kế",
+            "cơ chế yêu cầu"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong sơ đồ trình tự, những gì có thể được xác định bởi các tương tác giữa những người tham gia trong các tương tác?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "cả dịch vụ được cung cấp và yêu cầu cho giao diện",
+            "tên của giao diện",
+            "chỉ các dịch vụ được yêu cầu bởi một giao diện",
+            "cơ chế yêu cầu"
+        ],
+        "image":null
+    },
+    {
+        "text":"Quan điểm nào tập trung vào việc thực hiện vật lý của hệ thống?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Quan điểm thực hiện",
+            "Xem quy trình",
+            "Khung nhìn sử dụng",
+            "Quan điểm logic"
+        ],
+        "image":null
+    },
+    {
+        "text":"Phát biểu nào là đúng về một đối tượng hoạt động?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Nó là một đối tượng độc lập có thể giao tiếp với các đối tượng hoạt động khác không đồng bộ.",
+            "Nó không chứa trạng thái.",
+            "Nó phụ thuộc vào việc thực hiện hệ thống tổng thể.",
+            "Nó không có cấu trúc để cho phép lớp được thao tác dễ dàng"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong khi phân tích ca sử dụng, những gì thường được phân bổ cho các lớp điều khiển?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "hành vi cụ thể cho trường hợp sử dụng hoặc một phần của luồng sự kiện rất quan trọng",
+            "hành vi liên quan đến dữ liệu được gói gọn trong sự trừu tượng hóa.",
+            "hành vi liên quan đến giao tiếp với một diễn viên.",
+            "hành vi cụ thể để thực thi quy tắc kinh doanh hoặc quy trình làm việc"
+        ],
+        "image":null
+    },
+    {
+        "text":"Ba nguồn để nhận dạng Trừu tượng chính là gì? (Chọn ba.)",
+        "numOfRightAnswer":3,
+        "answers":[
+            "chú giải",
+            "kiến thức tên miền.",
+            "yêu cầu.",
+            "lớp thiết kế"
+        ],
+        "image":null
+    },
+    {
+        "text":"Đối tượng được đặt tên trong UML là gì?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Matt: Nhân viên",
+            "Nhân viên.",
+            "Matt :: Nhân viên",
+            ":: nhân viên"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong khi sử dụng Phân tích ca sử dụng, một thuộc tính nên được sử dụng thay vì một lớp khi thông tin _____.",
+        "numOfRightAnswer":1,
+        "answers":[
+            "được truy cập bởi các hoạt động chỉ nhận, đặt hoặc thực hiện các phép biến đổi đơn giản",
+            "có liên quan đến các thực thể trong Mô hình Doanh nghiệp hoặc Miền.",
+            "cần được ẩn khỏi các phần khác của Mô hình phân tích và không được chia sẻ",
+            "được nhắc đến và sử dụng nhiều lần trong suốt quá trình thực hiện ca sử dụng"
+        ],
+        "image":null
+    },
+    {
+        "text":"Chế độ xem nào KHÔNG phải là một phần của Mô hình Chế độ xem RUP 4 + 1?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Chế độ xem phân phối",
+            "có liên quan đến các thực thể trong Mô hình Doanh nghiệp hoặc Miền.",
+            "Khung nhìn sử dụng",
+            "Xem quy trình"
+        ],
+        "image":null
+    },
+    {
+        "text":"Hai chức năng của mô hình trực quan là gì? (Chọn hai.)",
+        "numOfRightAnswer":2,
+        "answers":[
+            "cải thiện giao tiếp và sự hiểu biết giữa các thành viên trong nhóm",
+            "tài liệu hành vi và cấu trúc hệ thống trước khi mã hóa hệ thống.",
+            "tài liệu quyết định thiết kế quan trọng trong mã",
+            "tạo ra một mô hình duy nhất đại diện cho tất cả các khung nhìn của hệ thống"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong quá trình phân tích ca sử dụng, tại sao các cơ chế phân tích được sử dụng?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "để giảm độ phức tạp và cải thiện tính nhất quán bằng cách cung cấp một đại diện tốc ký cho hành vi phức tạp",
+            "để đơn giản hóa nhiệm vụ tạo ra các trường hợp sử dụng bằng cách cung cấp tốc ký thuận tiện cho các tác vụ lặp đi lặp lại",
+            "để thu thập các nhiệm vụ chung vào một nơi, để dễ dàng giao chúng cho các nhà phát triển để thực hiện",
+            "để xác minh rằng các nhà thiết kế đã thực hiện nhiệm vụ phân tích một cách chính xác, theo khuyến nghị của kiến trúc sư"
+        ],
+        "image":null
+    },
+    {
+        "text":"Phát biểu nào là đúng về các mẫu?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Các mẫu cung cấp một giải pháp chung cho một vấn đề chung.",
+            "Các mẫu chỉ tồn tại ở cấp Thiết kế.",
+            "Các mẫu chỉ tồn tại ở cấp Kiến trú",
+            "Các mẫu chỉ được sử dụng trong Giai đoạn Xây dựng."
+        ]
+    },
+    {
+        "text":"Trong khi phân tích ca sử dụng, tại sao đôi khi cần phải bổ sung mô tả ca sử dụng?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Mô tả của từng trường hợp sử dụng không phải lúc nào cũng đủ để tìm các lớp phân tích và các đối tượng của chúng.",
+            "Luồng sự kiện trong ca sử dụng đôi khi quá phức tạp để thực hiện.",
+            "Nhà thiết kế cần biết luồng sử dụng nào đang được phát triển trong lần lặp hiện tại.",
+            "Kiến trúc sư có thể cần điều chỉnh các yêu cầu không chính xác trước khi đưa chúng cho các nhà thiết kế."
+        ]
+    },
+    {
+        "text":"Trong Phân tích ca sử dụng, mục đích của bước Phân tích thống nhất là gì?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "để đảm bảo rằng mỗi lớp phân tích đại diện cho một khái niệm được xác định rõ, không có trách nhiệm chồng chéo",
+            "để thu thập các lớp phân tích từ mỗi lần thực hiện ca sử dụng và đưa chúng vào Mô hình thiết kế",
+            "để đảm bảo trách nhiệm của mỗi lớp là nhất quán và lớp đó có một mục đích duy nhất được xác định rõ",
+            "để tạo các họ lớp ban đầu bằng cách sử dụng tính kế thừa để nhóm các lớp liên quan vào cấu trúc cây"
+        ]
+    },
+    {
+        "text":"Ba quy trình nào phù hợp nhất với UML?(chọn 3 đáp án)",
+        "numOfRightAnswer":3,
+        "answers":[
+            "trường hợp sử dụng",
+            "lặp và tăng",
+            "kiến trúc làm trung tâm",
+            "dựa trên sự phát triển của thác nước",
+            "yêu cầu trung tâm"
+        ]
+    },
+    {
+        "text":"Các lớp kiến trúc thường được mô hình hóa trong UML bằng cách sử dụng _____.",
+        "numOfRightAnswer":1,
+        "answers":[
+            "gói rập khuôn << Layer >>",
+            "hệ thống con rập khuôn << Lớp >>",
+            "lớp tổng hợp rập khuôn << Lớp >>",
+            "sơ đồ lớp có tên Lớp"
+        ]
+    },
+    {
+        "text":"Trong sơ đồ trạng thái, một trạng thái có hai lần chuyển tiếp. Một trong những chuyển đổi là một chuyển tiếp nội bộ và một trong những chuyển tiếp là một chuyển tiếp bên ngoài. Những trạng thái nào có thể thực hiện một hành động thoát?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "chỉ chuyển tiếp bên ngoài",
+            "chỉ chuyển đổi nội bộ",
+            "không phải là sự chuyển đổi bên trong và bên ngoài",
+            "cả sự chuyển tiếp bên trong và bên ngoài"
+        ]
+    },
+    {
+        "text":"Hai câu nào là đúng về các quy trình hướng đến trường hợp sử dụng? (Chọn hai.)",
+        "numOfRightAnswer":2,
+        "answers":[
+            "Các trường hợp sử dụng ngắn gọn, đơn giản và có thể được hiểu bởi một loạt các bên liên quan.",
+            "Các ca sử dụng giúp đồng bộ hóa nội dung của các mô hình khác nhau.",
+            "Ca sử dụng là một danh sách đầy đủ các yêu cầu chức năng.",
+            "Các trường hợp sử dụng xác định cách thức thực hiện hành vi hệ thống."
+        ]
+    },
+    {
+        "text":"Chức năng chính của các lớp thực thể là gì?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "hoạt động như một đại diện thay thế hoặc ủy quyền cho các tác nhân trong một hệ thống",
+            "lưu trữ và quản lý thông tin trong hệ thống",
+            "bọc các cuộc gọi truy cập dữ liệu đến cơ sở dữ liệu quan hệ hệ thống",
+            "thông tin thống nhất giữa các tầng trong một hệ thống"
+        ]
+    },
+    {
+        "text":"Cơ chế đa năng UML nào để tổ chức các thành phần thành các nhóm?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "một gói",
+            "một sơ đồ lớp",
+            "một hoạt động",
+            "một sơ đồ tổng hợp"
+        ]
+    },
+    {
+        "text":"Trong khi phân tích ca sử dụng, cần vẽ bao nhiêu sơ đồ tương tác (trình tự hoặc giao tiếp) cho mỗi ca sử dụng?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "đủ từng loại để đảm bảo rằng tất cả trách nhiệm của các lớp tham gia được xác định và hầu hết các luồng sự kiện được kiểm tra",
+            "một cho luồng chính và một cho mỗi luồng sự kiện thay thế trong trường hợp sử dụng",
+            "một trong mỗi loại cho luồng chính và một loại cho mỗi luồng sự kiện thay thế trong trường hợp sử dụng",
+            "một trong mỗi loại cho mỗi trường hợp sử dụng, với mỗi luồng sự kiện thay thế được hiển thị dưới dạng xảy ra tương tác"
+        ]
+    },
+    {
+        "text":"Trong phân tích ca sử dụng, chức năng của các lớp biên là gì?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "để cách ly ngoại lực từ các cơ chế bên trong và ngược lại",
+            "để thể hiện các màn hình trong giao diện người dùng",
+            "để xác định các giao diện dịch vụ được hiển thị bởi lớp Business",
+            "để xác định điểm nhập hoặc gốc vào Mô hình Dữ liệu Đối tượng cốt lõi"
+        ]
     }
 ]

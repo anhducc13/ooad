@@ -1,35 +1,190 @@
 [
     {
-        "text": "Phát biểu nào là đúng?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "UML là ngôn ngữ lập mô hình cho bản thiết kế phần mềm",
-            "UML là một quy trình phát triển cho các hệ thống phần mềm chuyên sâu",
-            "UML là ngôn ngữ phụ thuộc vào quá trình được sử dụng để hiển thị các tạo phẩm phần mềm",
-            "UML là ngôn ngữ lập trình trực quan"
+        "text":"Xác định các yếu tố thiết kế là một phần của chi tiết quy trình công việc?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Tinh chỉnh kiến trúc",
+            "Xác định kiến trúc ứng viên",
+            "Thành phần thiết kế",
+            "Thực hiện kiến trúc"
         ],
-        "image": null
+        "image":null
     },
     {
-        "text": "Chỉ ra ba cách mà một lớp có cấu trúc khác với một lớp truyền thống? (Chọn ba)",
-        "numOfRightAnswer": 3,
-        "answers": [
-            "Nó xác định rõ ràng ranh giới lớp thông qua lớp vỏ đóng gói",
-            "Nó mang giao diện công cộng vào lớp thông qua các cổng",
-            "Nó cho thấy vai trò của lớp",
-            "Nó định nghĩa các thông điệp giữa chính nó và các lớp khác"
+        "text":"Đây là hướng dẫn để đóng gói các tương tác của hệ thống con theo trình tự sơ đồ?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Thông báo cho các hệ thống con phải tương ứng với các hoạt động giao diện của hệ thống con.",
+            "Thông điệp từ các hệ thống con phải tương ứng với hoạt động của thành phần hệ thống con.",
+            "Trong quá trình thiết kế ca sử dụng, nên tạo sơ đồ trình tự thứ cấp để mô hình hóa các tương tác trong các hệ thống con.",
+            "Một hệ thống con nên được biểu diễn trên sơ đồ trình tự bằng cách sử dụng thành phần hệ thống con của nó."
         ],
-        "image": null
+        "image":null
     },
     {
-        "text": "Đâu là một đặc điểm của một lớp có cấu trúc?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "có thể đóng nhiều vai trò khác nhau trên các đối tượng tương tác với nó",
-            "phải có một giao diện cho mỗi vai trò",
-            "chỉ có thể đóng một vai trò, bất kể có bao nhiêu đối tượng giao dịch với nó",
-            "bị giới hạn ở một vai trò, nhưng có thể có nhiều giao diện"
+        "text":"Thiết kế ca sử dụng là một phần của chi tiết quy trình công việc?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Thành phần thiết kế.",
+            "Lớp thiết kế và hệ thống con.",
+            "Các trường hợp sử dụng thiết kế",
+            "Phân tích hành vi."
         ],
-        "image": null
+        "image":null
+    },
+    {
+        "text":"Phát biểu nào là đúng về các yếu tố trong hệ thống con và công khai hiển thị?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Không có yếu tố bên trong hệ thống con nên có tầm nhìn công khai.",
+            "Lớp thiết kế và hệ thống con.",
+            "Các trường hợp sử dụng thiết kế",
+            "Phân tích hành vi."
+        ],
+        "image":null
+    },
+    {
+        "text":"Điều gì được sử dụng để mô tả quá trình áp dụng cơ chế phân phối trong quá trình thực hiện?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Mẫu UML và các bước được viết",
+            "sơ đồ ca sử dụng",
+            "sơ đồ hoạt động",
+            "lưu đồ."
+        ],
+        "image":null
+    },
+    {
+        "text":"Xác định cấu hình mạng là bước ... của Mô tả Hoạt động phân phối.",
+        "numOfRightAnswer":1,
+        "answers":[
+            "đầu tiên",
+            "trận chung kết",
+            "thứ hai",
+            "thứ năm"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong đó hoạt động Phân tích và Thiết kế là các hệ thống con được ánh xạ tới phân tích các lớp học?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Xác định các yếu tố thiết kế",
+            "Phân tích kiến trúc",
+            "Xác định hệ thống con",
+            "Kết hợp các yếu tố thiết kế hiện có"
+        ],
+        "image":null
+    },
+    {
+        "text":"Ba mục đích của Thiết kế ca sử dụng là gì? (Chọn ba)",
+        "numOfRightAnswer":3,
+        "answers":[
+            "để tinh chỉnh việc thực hiện trường hợp sử dụng về mặt tương tác",
+            "để tinh chỉnh các yêu cầu về hoạt động của các lớp thiết kế",
+            "để tinh chỉnh các yêu cầu về hoạt động của các hệ thống con thiết kế và / hoặc giao diện của chúng",
+            "để đảm bảo tính đầy đủ của sơ đồ Chế độ xem các lớp tham gia cho mỗi lần thực hiện ca sử dụng"
+        ],
+        "image":null
+    },
+    {
+        "text":"Đâu là một thiết bị?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "máy tính cầm tay",
+            "máy chủ cơ sở dữ liệu",
+            "mạng riêng ảo",
+            "máy chủ web"
+        ],
+        "image":null
+    },
+    {
+        "text":"Trong OOAD, hoạt động nào là cơ chế phân phối được xác định?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Xác định cơ chế thiết kế",
+            "Xác định các yếu tố thiết kế",
+            "Thiết kế lớp",
+            "Phân tích kiến trúc"
+        ],
+        "image":null
+    },
+    {
+        "text":"Chế độ xem 4 + 1 nào là trọng tâm của hoạt động Phân phối Mô tả?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Quan điểm triển khai",
+            "Quan điểm logic",
+            "Xem trường hợp sử dụng",
+            "Quan điểm thực hiện"
+        ],
+        "image":null
+    },
+    {
+        "text":"Liên quan đến sự kiên trì, hai chức năng của giao dịch là gì? (Chọn hai.)",
+        "numOfRightAnswer":2,
+        "answers":[
+            "Đảm bảo rằng một tập hợp các hoạt động được thực hiện hoặc hoàn toàn hoặc không",
+            "Đảm bảo rằng các bộ đối tượng chuyển từ trạng thái nhất quán này sang trạng thái nhất quán khác",
+            "đơn giản hóa công việc thiết kế, do đó không cần phải xem xét một cách rõ ràng trong quá trình sử dụng Design",
+            "cho phép một nhà thiết kế xác định có chọn lọc các hoạt động sẽ được ưu tiên thực hiện khi thiếu tài nguyên hệ thống",
+            "chỉ đơn giản là thiết kế công việc, bằng cách cung cấp các cách tiếp cận được tiêu chuẩn hóa để thể hiện các đối tượng liên tục trong UML"
+        ],
+        "image":null
+    },
+    {
+        "text":"Cái gì nào được sử dụng để mô tả hiện thực hóa ca sử dụng?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "sơ đồ giao tiếp",
+            "văn bản mô tả trường hợp sử dụng",
+            "biểu đồ trạng thái",
+            "sơ đồ hoạt động"
+        ],
+        "image":null
+    },
+    {
+        "text":"Mục đích của thiết kế hệ thống con là gì?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "xác định các hành vi được chỉ định trong giao diện của hệ thống con trong giới hạn  của sự cộng tác của các yếu tố thiết kế bao hàm (dịch chưa đúng)",
+            "xác định tầng nào mà mỗi hệ thống con sẽ được thực hiện và các cơ chế giao tiếp được sử dụng giữa chúng",
+            "chia hệ thống thành các hệ thống con để phân bổ các hệ thống con cho các nhóm phát triển",
+            "sơ đồ hoạt động"
+        ],
+        "image":null
+    },
+    {
+        "text":"Đâu là ví dụ về Môi trường thực thi?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "Máy chủ ứng dụng J2EE ",
+            "máy tính cầm tay",
+            "Chuyển mạng Gigabit",
+            "mạng riêng ảo"
+        ],
+        "image":null
+    },
+    {
+        "text":"Ba hoạt động nào là yếu tố của Thiết kế lớp? (Chọn ba.) ",
+        "numOfRightAnswer":1,
+        "answers":[
+            "xác định các lớp mô hình hóa miền vấn đề",
+            "tinh chỉnh các mối quan hệ, hoạt động và thuộc tính",
+            "xác định các lớp và các mối quan hệ hỗ trợ thực hiện kiến trúc",
+            "xác định và phân tích sự chuyển đổi trạng thái trong các đối tượng của các lớp trạng thái điều khiển"
+        ],
+        "image":null
+    },
+    {
+        "text":"Có bao nhiêu nút vật lý cần được xác định để thực hiện Mô tả hoạt động phân phối?",
+        "numOfRightAnswer":1,
+        "answers":[
+            "nhiều hơn một nút",
+            "không có nút nào",
+            "chỉ một nút ",
+            "không hoặc một nút"
+        ],
+        "image":null
     }
 ]
