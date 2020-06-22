@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar, Card, Checkbox, Radio } from 'antd';
+import { Avatar } from 'antd';
 
 const ItemQuestionHeader = props => {
     const { question, onChangeQuestion } = props;
@@ -17,7 +17,7 @@ const ItemQuestionHeader = props => {
         return {};
     }
     return (
-        <Avatar onClick={() => onChangeQuestion(no)} style={{ ...renderStyle(), cursor: 'pointer'}}>{no}</Avatar>
+        <Avatar onClick={() => onChangeQuestion(no)} style={{ ...renderStyle(), cursor: 'pointer' }}>{no}</Avatar>
     )
 };
 

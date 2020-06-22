@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React, { useState } from "react";
 import analysic1_25 from "./analysic1_25.json";
 import analysic26_50 from "./analysic26_50.json";
@@ -131,11 +132,11 @@ function App(props) {
   }
 
   return (
-    <div className="container">
+    <div>
       <div className="mt-3 text-center">
         <Header onChangeQuestion={handleChangeQuestion} questions={questions} />
       </div>
-      <Button onClick={handleReset} type="primary">Làm lại</Button>
+      <Button className="my-1" onClick={handleReset} type="primary">Làm lại</Button>
       <div className="my-3">
         {currentQuestion && (
           <Content
@@ -153,6 +154,13 @@ function App(props) {
 export default () => {
   return (
     <div className="container mt-4">
+      <div style={{ fontSize: 12 }} className="text-warning text-center">
+        Dịch chưa sát, đáp án không chính xác liên hệ anh &nbsp;
+        <a href="https://www.facebook.com/profile.php?id=100009495502792">
+          Nguyễn Văn Thành
+        </a>
+        . Cảm ơn đã đóng góp!
+      </div>
       <Tabs defaultActiveKey="1">
         <TabPane tab="Phân tích 1-25" key="1">
           <App source={analysic1_25} />
