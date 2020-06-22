@@ -69,7 +69,7 @@
         "text": "Biểu đồ nào được sử dụng để mô tả hiện thực ca sử dụng?",
         "numOfRightAnswer": 1,
         "answers": [
-          "sơ đồ truyền thông",
+          "sơ đồ giao tiếp (communication diagram)",
           "mô tả trường hợp sử dụng văn bản",
           "biểu đồ trạng thái",
           "sơ đồ hoạt động"
