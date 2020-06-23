@@ -58,11 +58,11 @@
         "text": "Ba quy trình nào phù hợp nhất với UML? (Chọn ba)",
         "numOfRightAnswer": 3,
         "answers": [
-            "Theo ca sử dụng",
-            "Lặp và gia tăng",
-            "Kiến trúc tập trung",
-            "Thác nước phát triển dựa trên",
-            "Yêu cầu tập trung"
+            "(Use-case driven) trường hợp sử dụng",
+            "(Iterative and incremental) Lặp và gia tăng",
+            "(Architecture-centric) Kiến trúc tập trung",
+            "(Waterfall development-based) Thác nước",
+            "(Requirements-centric) Yêu cầu tập trung"
         ],
         "image": null
     },
