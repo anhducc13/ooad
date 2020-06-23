@@ -48,8 +48,8 @@
         "numOfRightAnswer": 1,
         "answers": [
             "làm mịn kiến trúc",
-            "Xác định cấu trúc ứng cử viên",
-            "Các thành phần thiết kế",
+            "Xác định kiến trúc trúc ứng cử viên",
+            "Thiết kế các thành phần",
             "Thực hiện Kiến trúc"
         ],
         "image": null
@@ -124,10 +124,10 @@
         "text": "Mục đích của hoạt động xác định cơ chế thiết kế là gì?",
         "numOfRightAnswer": 1,
         "answers": [
-            "để làm mịn các cơ chế phân tích thành các cơ chế thiết kế dựa trên các ràng buộc được áp đặt bởi môi trường thực hiện",
-            "để tinh chỉnh các cơ chế phân tích và xác định việc thực hiện chính xác Cơ chế",
-            "cung cấp một bộ khái niệm các chuyển vụ được sử dụng bởi các đối tượng phân tích",
-            " để xác định vị trí thiết kế trong kiến trúc vì vậy nỗ lực kiến trúc Vẫn tập trung và ít có khả năng bị lúng túng"
+            "để tinh chỉnh các cơ chế phân tích thành các cơ chế thiết kế dựa trên các ràng buộc được áp đặt bởi môi trường thực hiện",
+            "để tinh chỉnh các cơ chế phân tích và xác định việc thực hiện chính xác các cơ chế đó",
+            "để cung cấp một tập hợp các dịch vụ được sử dụng bởi các đối tượng phân tích",
+            "để xác định các trình giữ chỗ thiết kế trong kiến trúc để nỗ lực kiến trúc vẫn được chú trọng và ít có khả năng bị bỏ qua"
         ],
         "image": null
     },
@@ -198,7 +198,7 @@
         "image": null
     },
     {
-        "text": "Định nghĩa cấu hình mạng là bước _____ của hoạt động mô tả phân phối.",
+        "text": "Định nghĩa cấu hình mạng là bước _____ của hoạt động mô tả phân phối (Describe Distribution).",
         "numOfRightAnswer": 1,
         "answers": [
             "đầu tiên",
@@ -209,7 +209,7 @@
         "image": null
     },
     {
-        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối?",
+        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối (Describe Distribution)?",
         "numOfRightAnswer": 1,
         "answers": [
             "nhiều nút (nhiều hơn một nút)",
@@ -253,7 +253,7 @@
         "image": null
     },
     {
-        "text": "khung nhìn nào trong 4+1 tập trung vào hoạt động mô tả phân phối?",
+        "text": "Khung nhìn nào trong 4+1 tập trung vào hoạt động mô tả phân phối (Describe Distribution)?",
         "numOfRightAnswer": 1,
         "answers": [
             "Khung nhìn triển khai",
@@ -264,7 +264,7 @@
         "image": null
     },
     {
-        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối?",
+        "text": "Có bao nhiêu nút vật lý cần được xác định để thực hiện hoạt động mô tả phân phối (Describe Distribution)?",
         "numOfRightAnswer": 1,
         "answers": [
             "nhiều hơn một nút (nhiều nút)",
@@ -275,7 +275,7 @@
         "image": null
     },
     {
-        "text": "Các hiện vật là các thực thể _____.",
+        "text": "Các chế tác (Artifacts) là các thực thể _____.",
         "numOfRightAnswer": 1,
         "answers": [
             "được triển khai vào các nút vật lý",
