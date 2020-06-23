@@ -3,9 +3,9 @@
         "text": "Tài liệu nào mô tả cơ chế thiết kế, bất kì sự ánh xạ nào giữa các cơ chế thiết kế và chi tiết đối với sự sử dụng của chúng?",
         "numOfRightAnswer": 1,
         "answers": [
+            "Tài liệu tầm nhìn",
             "Hướng dẫn thiết kế",
             "Tài liệu Kiến trúc Phần mềm",
-            "Tài liệu tầm nhìn",
             "Kế hoạch phát triển phần mềm"
         ],
         "image": null
