@@ -11,7 +11,7 @@
         "image": null
       },
       {
-        "text": "Với cấu hình sau đây: Gói A, chứa Class aClass nằm trong tầng trình diễn. Gói B,chứa một class bClass và một giao diện bInterface nằm trong tầng nghiệp vụ. Gói C, trong đó chứa cClass trong tầng dữ liệu. Đó là một thực hành nghèo?",
+        "text": "Với cấu hình sau đây: Gói A, chứa Class aClass nằm trong tầng trình diễn. Gói B,chứa một class bClass và một giao diện bInterface nằm trong tầng nghiệp vụ. Gói C, trong đó chứa cClass trong tầng dữ liệu. Đâu là một thực hành kém?",
         "numOfRightAnswer": 1,
         "answers": [
           "aClass có một thuộc tính của kiểu cClass.",
@@ -44,13 +44,13 @@
         "image": null
       },
       {
-        "text": "Các hệ thống con bổ sung có thể được phát hiện trong quá trình thiết kế ca sử dụng bằng cách ghi chú _____.",
+        "text": "Các hệ thống con bổ sung có thể được phát hiện trong quá trình thiết kế ca sử dụng bằng cách lưu ý _____.",
         "numOfRightAnswer": 1,
         "answers": [
-          "luồng con thông thường giữa các đối tượng trên một vài sơ đồ tuần tự",
-          "các vật tương tự trên một số sơ đồ tuần tự",
-          "một loạt các sự chuyển tiếp trạng thái nhất định đối với nhiều lớp liên quan đến một trường hợp sử dụng hiện thực hóa",
-          "các lớp thiết kế tương tự liên quan đến nhiều hơn một trường hợp sử dụng trường hợp"
+          "luồng con chung giữa các đối tượng trên một số sơ đồ tuần tự",
+          "các đối tượng tương tự trên một số sơ đồ tuần tự",
+          "một loạt các sự chuyển tiếp trạng thái nhất định đối với nhiều lớp liên quan đến việc hiện thực hóa ca sử dụng",
+          "các lớp thiết kế tương tự liên quan đến nhiều hơn một ca sử dụng trường hợp"
         ],
         "image": null
       },
