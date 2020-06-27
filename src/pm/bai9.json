@@ -1,0 +1,13 @@
+[
+    {
+        "text": "Mục tiêu của phân tích là gì?",
+        "numOfRightAnswer": 1,
+        "answers": [
+            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
+            "chuyển các yêu cầu chức năng thành mã",
+            "chuyển các yêu cầu thành thiết kế hệ thống",
+            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
+        ],
+        "image": null
+    }
+]
