@@ -1,13 +1,171 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Bước đầu tiên của lập kế hoạch dự án là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "thiết lập mục đích và phạm vi dự án",
+      "quyết định dự toán kinh phí (budget)",
+      "lựa chọn mô hình để tổ chức nhóm dự án",
+      "quyết định các ràng buộc/giả định của dự án"
+    ],
+    "image": null
+  },
+
+  {
+    "text": "Phát biểu nào sau đây là thích hợp như là chìa khóa để thành công của dự án phát triển hệ thống?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Người quản lý dự án phải chuẩn bị kế hoạch dự án của riêng mình và đạt được sự chấp thuận, cho dù bản kế hoạch tin học hóa đã được phát triển",
+      "Các phương pháp để giải quyết vấn đề trong nghiệp vụ đích về tin học hóa phải được xác định trong giai đoạn cuối của thiết kế hệ thống để cho công nghệ hệ thống mới nhất có thể được đưa vào",
+      "Phạm vi và mục tiêu của dự án phải được làm rõ ràng sau khi dự án bước vào pha thiết kế hệ thống, như được yêu cầu",
+      "Người quản lý dự án phải quản lý dự án theo bản kế hoạch tin học hóa"
+    ],
+    "image": null
+  },
+  {
+    "text": "Giả sử có rất nhiều dự án cùng được triển khai tại một công ty. Các dự án này sử dụng chung nguồn nhân lực của công ty cũng như các tài nguyên khác. Thuật ngữ nào sau đây là phù hợp với tình huống này?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Dùng chung tài nguyên (Resource pooling)",
+      "Kỹ nghệ tương tranh (Concurrent engineering)",
+      "Phân bổ tài nguyên quá mức (Resource over-allocation)",
+      "Quản lý các dự án cos lien quan (Program management)"
+    ],
+    "image": null
+  },
+  {
+    "text": "Tìm phát biểu sai trong các phát biểu sau:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Đảm bảo tính thống nhất trong kế hoạch của dự án là thứ yếu vì nó chỉ là kết quả của quá trình thay đổi trong thực hiện dự án.",
+      "Đừng bao giờ thực hiện dự án khi chưa có một kế hoạch tốt được cập nhật, đồng nhất và đã được kiểm tra cẩn thận.",
+      "Việc sửa đổi và cập nhật kế hoạch dự án (nếu cần thiết) ảnh hưởng lớn đến tiến độ của dự án nhưng nó giúp tang khả năng thỏa mãn yêu cầu đối với khách hàng. Các thay đổi này cần thông báo kịp thời tới khách hang và các bên liên quan khác.",
+      "Những yếu kém trong quá trình cập nhật/sửa đổi kế hoạch dự án là một trong những nguyên nhân chính dẫn đến dự án vượt thời gian và kinh phí"
+    ],
+    "image": null
+  },
+  {
+    "text": "Các mốc thời gian quan trọng của dự án dựa trên:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Các yêu cầu chính, WBS và WBS dictionary",
+      "Mốc thời gian về kinh phí thực hiện, mốc thời gian đảm bảo chất lượng và mốc thời gian về lịch trình dự án",
+      "Kế hoạch quản lý cấu hình và quản lý thay đổi",
+      "Các yêu cầu chính và quy trình thực hiện"
+    ],
+    "image": null
+  },
+  {
+    "text": "Một trong những mục đích của lập kế hoạch dự án là … ",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giúp cho quản lý dự án tiến hành các ước lượng phù hợp về chi phí và lịch trình thực hiện dự án",
+      "Thuyết phục khách hàng tin vào tính khả thi của dự án",
+      "Xây dựng dữ liệu lịch sử phát triển dự án",
+      "Để quyết định lợi ích về mặt kinh phí khi thực hiện dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Mục nào sau đây thể hiện mốc quan trọng của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Phần mềm đã hoàn tất việc kiểm thử chấp thuận người dùng",
+      "Nhà tài trợ điều hành ký kết hoàn tất các yêu cầu",
+      "Hoàn thành việc phân bổ nhân lực",
+      "Hoàn thành việc chuẩn bị cở sở hạ tầng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Người điều hành cao cấp của công ty bạn muốn cập nhật lịch trình dự án hàng tháng. Bạn sẽ gửi thông tin nào sau đây cho người điều hành?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Biểu đồ mốc quan trọng",
+      "Lược đồ hoạt động mũi tên",
+      "Biểu đồ PERT",
+      "Biểu đồ Grantt"
+    ],
+    "image": null
+  },
+  {
+    "text": "Diễn giải nào sau đây là thích hợp cho biểu đồ mũi tên được vẽ dưới đây? Ở đây, con số được viết bên cạnh mũi tên chỉ ra số ngày cần cho từng công việc (từng cạnh) tương ứng.",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Nếu công việc (2)→(4) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng được rút ngắn lại một ngày.",
+      "Nếu công việc (1)→(3) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày.",
+      "Nếu công việc (3)→(5) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày.",
+      "Nếu công việc (6)→(8) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày."
+    ],
+    "image": "abc"
+  },
+  {
+    "text": "Mô tả nào sau đây là thích hợp liên quan tới các đặc điểm của biểu đồ Gantt được dùng để quản lý quy trình và quản lý tiến độ trong dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Nó làm cho chỉ thoáng nhìn cũng có thể biết được các điểm bắt đầu và kết thúc theo thời gian của từng công việc.",
+      "Nó làm cho có thể làn sáng tỏ thứ tự các hoạt động và nhận ra đường xương sống của dự án.",
+      "Nó làm cho có thể dễ dàng tính toán thả nổi tự do (free float) của từng công việc.",
+      "Nó là cho có thể dễ dàng nhận ra các công việc được quản lý một cách tăng cường"
+    ],
+    "image": null
+  },
+  {
+    "text": "Sơ đồ hoặc biểu đồ nào sau đây được dùng để hiển thị lịch công việc và sự thực hiện?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Biểu đồ Gantt",
+      "Sơ đồ SD (Schema Deviation)",
+      "Biểu đồ Venn",
+      "Sơ đồ phân cấp công việc"
+    ],
+    "image": null
+  },
+  {
+    "text": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày bắt đầu tiến hành công việc L sớm nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1",
+    "numOfRightAnswer": 1,
+    "answers": ["Ngày 20", "Ngày 18", "Ngày 17", "Ngày 19"],
+    "image": "abc"
+  },
+  {
+    "text": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày kết thúc công việc C muộn nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1",
+    "numOfRightAnswer": 1,
+    "answers": ["Ngày 17", "Ngày 16", "Ngày 18", "Ngày 15"],
+    "image": "abc"
+  },
+  {
+    "text": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Số ngày tối thiểu cần thiết để hoàn thành dự án là bao nhiêu?",
+    "numOfRightAnswer": 1,
+    "answers": ["31", "29", "28", "27"],
+    "image": "abc"
+  },
+  {
+    "text": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Đâu là đường xương sống của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": ["A, B, G, D, I", "A, F, D, I", "A, B, H, I", "A, B, C, D, I"],
+    "image": "abc"
+  },
+  {
+    "text": "Hình vẽ sau biểu diễn một phần lịch công việc của một dự án. Mỗi công việc có ngày bắt đầu sớm nhất – ngày kết thúc sớm nhất và ngày bắt đầu muộn nhất – ngày kết thúc muộn nhất. Số ngày mà công việc B có thể bắt đầu muộn nhất so với ngày bắt đầu sớm nhất là …",
+    "numOfRightAnswer": 1,
+    "answers": ["10 ngày", "9 ngày", "11 ngày", "8 ngày"],
+    "image": "abc"
+  },
+  {
+    "text": "Phát biểu nào sau đây chính xác theo phân tích Pareto (cũng được gọi là quy tắc 80-20)?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Đây là ý tưởng rằng 80% nhiệm vụ có thể được hoàn thành trong 20% thời gian có sẵn. 20% còn lại 20% của nhiệm vụ sẽ mất 80% thời gian này.",
+      "Đây là ý tưởng rằng 20% nhiệm vụ có thể được hoàn thành trong thời gian 80% có sẵn. Còn lại 80% nhiệm vụ sẽ mất 20% thời gian này.",
+      "Đây là ý tưởng rằng 80% nhiệm vụ có thể được hoàn thành trong 50% thời gian có sẵn 20% còn lại 20% của nhiệm vụ sẽ mất 50% thời gian này.",
+      "Đây là ý tưởng rằng 50% nhiệm vụ có thể được hoàn thành trong 80% thời gian có sẵn. 50% còn lại 40% của nhiệm vụ sẽ mất 20% thời gian này."
+    ],
+    "image": null
+  },
+  {
+    "text": "Công cụ nào sau đây có thể hỗ trợ để lập lịch biểu cho dự án?",
+    "numOfRightAnswer": 1,
+    "answers": ["MS Project", "MS Excel", "MS Word", "MS Access"],
+    "image": null
+  }
 ]

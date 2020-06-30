@@ -1,13 +1,130 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Bốn đối tượng liên quan chính trong mỗi dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giám đốc dự án, khách hàng, tổ chức thực hiện và các nhà tài trợ",
+      "Giám đốc dự án, đội dự án, các giám đốc cao cấp và khách hàng",
+      "Giám đốc cao cấp, giám đốc chức năng, khách hàng và nhà tài trợ",
+      "Giám đốc dự án, giám đốc chức năng, khách hàng và giám đốc cao cấp"
+    ],
+    "image": null
+  },
+  {
+    "text": "Các nhà tài trợ dự án có ảnh hưởng lớn nhất đến phạm vi, chất lượng, thời đoạn và chi phícủa dự án trong suốt giai đoạn nào?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giai đoạn lập kế hoạch",
+      "Giai đoạn thực thi",
+      "Giai đoạn hoàn thiện",
+      "Giai đoạn xây dựng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhân tố nào ảnh hưởng lớn nhất tới thời đoạn thực tế của các nhiệm vụ dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Khả năng về nguồn lực",
+      "Chi phí nhiệm vụ",
+      "Thông tin lịch sử về các dự án đã hoàn thành",
+      "Những người đi trước và người thành công"
+    ],
+    "image": null
+  },
+  {
+    "text": "Thuật ngữ nào sau đây liên quan đến việc thực hiện đưa một công việc thầu phụ ví dụ như xây dựng vận hành và quản trị hệ thống ra một công ty bên ngoài?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Khoán ngoài (outsourcing)",
+      "Hệ thống mở",
+      "Giảm cỡ (Down-sizing)",
+      "Làm đúng cỡ (Right-sizing)"
+    ],
+    "image": null
+  },
+  {
+    "text": "Mô tả nào sau đây là mô tả thích hợp liên quan tới tổ chức của đội phát triển phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Đội ngũ dân chủ bao gồm các thành viên có quyền hạn và nghĩa vụ ngang nhau. Cho phép trao đổi ý kiến tự do, nhưng người lãnh đạo không thể phát huy vai trò lãnh đạo kiên quết được.",
+      "Đội có cấu trúc phân cấp bao gồm một người quản trị, nhiều người lãnh đạo và các nhân viên. Ưu điểm là ở chỗ trách nhiệm của từng thành viên được xác định rõ ràng, nhưng nhược điểm là ở chỗ thường tồn tại những vấn đề về trao đổi thông tin.",
+      "Một đội chuyên gia bao gồm các thành viên có chuyên môn và kỹ năng. Được kiểm soát bởi người quản lý là chuyên viên quản lý.",
+      "Trong đội lập trình viên chính, người lãnh đạo có thể phát huy vai trò lãnh đạo kiên quyết nhưng cũng chịu một gánh nặng. Do đó, khó áp dụng vào dự án quy mô lớn và dài hạn."
+    ],
+    "image": null
+  },
+  {
+    "text": "Phát biểu nào sau đây là phát biểu về những nguyên tắc cơ bản về cấu trúc của một tổ chức?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Những chỉ thị có thể chuyển từ trên xuống dưới một cách nhất quán bằng cách chia tổ chức thành vài tầng và thiết bị lập trách nhiệm cũng như quyền lực mỗi tầng",
+      "Vì một thành viên trong tổ chức có thể nhận chỉ thị từ một hoặc nhiều người cấp trên, điều quan trọng là xây dựng một tổ chức có thể hỗ trợ điều đó.",
+      "Một hệ thống tổ chức mà trong đó mỗi thành viên riêng biệt có thể chịu trách nhiệm đối với một quy trình nghiệp vụ chuyên môn là không nên. Sự hài hòa với những người khác là điều quan trọng.",
+      "Mặc dù việc xác định mở rộng kiểm soát là quan trọng, nhưng không thể xác định trước số lượng thích hợp nhưng người cấp dưới mà mỗi người cấp trên có thể quản lý. Do đo, tốt hơn cả là có một người quản lý được càng nhiều càng tốt."
+    ],
+    "image": null
+  },
+  {
+    "text": "Mệnh đề nào sau đây là đúng cho việc thuê công ty bên ngoài phát triển hệ thống?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Trong trường hợp phát triển hệ thống theo hợp đồng thầu khoán, mọi bản quyền về chương trình đã phát triển đều thuộc vào người thầu trừ phi được xác định khác.",
+      "Một hợp đồng uỷ thác không quy định trách nhiệm cho việc hoàn thành công việc; do đó bên uỷ thác có quyền chỉ đạo trực tiếp.",
+      "Trong trường hợp phát triển hệ thống theo hợp đồng khoán ngoài hay hợp đồng cho thuê lao động, người thầu chịu trách nhiệm hoàn thành công việc.",
+      "Nếu phát hiện khiếm khuyết nghiêm trọng trong chương trình do người phát triển làm ra, mà người này được cử tới từ công ty khác, thì công ty đó có trách nhiệm với khiếm khuyết đó."
+    ],
+    "image": null
+  },
+  {
+    "text": "Thách thức lớn nhất khi quản lý các bên liên quan là làm việc với …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Chủ đầu tư (sponsor)",
+      "Khách hàng",
+      "Các lãnh đạo công ty",
+      "Nhân viên đội dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là lý do của việc phải sử dụng đúng người đúng việc trong phân bổ nhân lực của dự án?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Mỗi người có một sở trường sở đoản riêng.",
+      "Quản lý dự án không thể thay đổi con người của mỗi thành viên dự án.",
+      "Quản lý dự án phải biết được điểm mạnh điểm yếu của từng thành viên."
+    ],
+    "image": null
+  },
+  {
+    "text": "Những yêu cầu cơ bản của một quản lý dự án để thể hiện tốt vai trò lãnh đạo dự án là …",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "phải có cái nhìn tổng thể về dự án, các bên liên quan, các hạng mục công việc, …",
+      "luôn biết đâu là việc đúng cần phải làm (danh sách công việc, WBS, Project network, Grant chart là các công cụ hữu ích)",
+      "luôn biết ai là người phù hợp để cổ vũ, động viên kịp thời và luôn nhấn mạnh ý nghĩa của công việc."
+    ],
+    "image": null
+  },
+  {
+    "text": "Tại sao tố chất minh bạch chính trực là rất quan trọng đối với quản lý dự án?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Vì minh bạch chính trực là nền tảng cho dự án thành công",
+      "Vì minh bạch chính trực là nền tảng cho hiệu quả và chất lượng công việc",
+      "Vì quản lý dự án phải làm gương. Khi nhân viên không tin tưởng, quản lý dự án không thể làm được gì."
+    ],
+    "image": null
+  },
+  {
+    "text": "Tại sao quản lý dự án phải xây dựng mối quan hệ tốt với lãnh đạo của khách hàng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Người lãnh đạo có ý nghĩa trong mọi công việc.",
+      "Tôn trọng đối tác, mình sẽ được tôn trọng.",
+      "Làm việc với lãnh đạo sẽ quyết được nhiều việc nhanh và hiệu quả và cấp dưới của đối tác sẽ nỗ lực hơn."
+    ],
+    "image": null
+  }
 ]

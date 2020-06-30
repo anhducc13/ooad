@@ -1,13 +1,149 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Mô tả nào sau đây là mô tả thích hợp liên quan tới xác định phạm vi trong quản lý dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Để làm sáng tỏ các sản phẩm chuyển giao như sản phẩm cần được giao cho khách hàng và các tài liệu cần được chuẩn bị, cũng như các hoạt động cần được thực hiện",
+      "Để tạo một lịch biểu dự án dựa trên thời gian được yêu cầu cho từng hoạt động và trình tự thời gian của các hoạt động",
+      "Để làm sáng tỏ những người quan tâm dự án, kể cả đội ngũ nội bộ và các thành viên bên ngoài từ khách hàng các công ty đối tác",
+      "Để thiết lập chính sách chất lượng cho dự án và đạt được sự chấp thuận từ quản lý cấp cao"
+    ],
+    "image": null
+  },
+  {
+    "text": "Vấn đề nào sau đây không thuộc phạm vi quản lý của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Không có phương án nào không thuộc",
+      "Kế hoạch của dự án",
+      "Đảm bảo chất lượng dự án",
+      "Chuẩn bị bắt đầu dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhóm các thành phần nào sau đây tham gia vào quá trình xây dựng WBS?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Người quản lý dự án, khách hàng, thành viên tổ dự án, người tài trợ dự án",
+      "Tổ dự án, người tài trợ dự án, người sử dụng, quản lý dự án",
+      "Quản lý dự án, lãnh đạo cao cấp của công ty, người tài trợ dự án, khách hàng",
+      "Các chuyên gia dự án, quản lý dự án, người sử dụng, người tài trợ dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là nguồn thông tin để xây dựng WBS cho các dự án phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Cả 3 đáp án trên",
+      "Các tài liệu liên quan đến dự án và tài liệu phụ trợ",
+      "Những người có liên quan trực tiếp hoặc gián tiếp đến dự án",
+      "Thông tin về hệ thống phần mềm hiện tại (cho dự án thay thế)"
+    ],
+    "image": null
+  },
+  {
+    "text": "Phương pháp nào sau đây phù hợp với việc xây dựng WBS cho các dự án phần mềm sử dụng mô hình thác nước?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Xây dựng WBS dựa trên quy trình (theo các giai đoạn)",
+      "Xây dựng WBS dựa trên sản phẩm",
+      "Xây dựng WBS dựa trên công việc",
+      "Xây dựng WBS dựa trên sơ đồ tư duy"
+    ],
+    "image": null
+  },
+  {
+    "text": "Chọn trình tự đúng nhất để xây dựng phạm vi của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Xây dựng SOW, xây dựng hiến chương dự án (Project charter), xây dựng kế hoạch quản lý phạm vi, xác định phạm vi dự án, xây dựng WBS và WBS dictionary",
+      "Xây dựng WBS, xác định phạm vi dự án, xây dựng hiến chương dự án, xác định các điều khoản hợp đồng, xây dựng WBS chứa các công việc của hợp đồng",
+      "Nghiên cứu khả thi, xây dựng hợp đồng, xác định các điều khoản hợp đồng, mô tả các công việc cần làm, lập tài liệu khởi động dự án",
+      "Xây dựng hợp đồng, lập kế hoạch thực hiện hợp đồng, xây dựng hiến chương dự án, xây dựng kế hoạch quản lý phạm vi, xác định các mốc thời gian quan trọng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là cách tiếp cận chính để xây dựng phạm vi của dự án?",
+    "numOfRightAnswer": 2,
+    "answers": [
+      "Dựa vào sản phẩm cần bàn giao (hướng sản phẩm)",
+      "Dựa vào quy trình để tạo ra các sản phẩm (hướng quy trình)",
+      "Dựa vào các quy trình nghiệp vụ của khách hàng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Những đặc trưng nào được dùng để quyết định phạm vi của dự án phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Mục tiêu của dự án, các chức năng/dịch vụ và hiệu năng",
+      "Ngữ cảnh của hệ thống, LOC và các chức năng/dịch vụ",
+      "Ngữ cảnh của hệ thống, các chức năng/dịch vụ, yêu cầu giao tiếp",
+      "Yêu cầu giao tiếp, hiệu năng, mục tiêu của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "… là tập các công việc được tổ chức theo cấu trúc phân cấp sao cho khi thực hiện chúng thì đạt được mục tiêu của dự án.",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "WBS",
+      "Định nghĩa phạm vi dự án",
+      "Từ điễn WBS",
+      "Tập hợp các công việc"
+    ],
+    "image": null
+  },
+  {
+    "text": "Biểu đồ dưới đây chỉ ra việc chia nhỏ các hoạt động dự án cụ thể từ tổng quát tới mức chi tiết. Tên của biểu đồ này là gì?",
+    "numOfRightAnswer": 1,
+    "answers": ["WBS", "DFD", "DOA", "PERT"],
+    "image": "abc"
+  },
+  {
+    "text": "Giải pháp nào được sử dụng trong quy trình xây dựng WBS của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Phân rã (Decomposition)",
+      "Brainstorming",
+      "Phân bổ nguồn nhân lực",
+      "Phân bổ nguồn kinh phí"
+    ],
+    "image": null
+  },
+  {
+    "text": "Một tài liệu được gọi là … được tạo ra bằng cách phân rã phạm vi dự án thành các phần tử nhỏ hơn để thuận tiện cho việc quản lý và thực hiện dự án.",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Cấu trúc phân cấp công việc (WBS)",
+      "Yêu cầu của dự án (SoW) ",
+      "Yêu cầu thay đổi",
+      "Lịch trình dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Các công việc của một dự án được mô tả tại …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Cấu trúc phân rã công việc (WBS)",
+      "Bảng liệt kê công việc dự án",
+      "Kế hoạch thực hiện dự án",
+      "Yêu cầu của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Chọn phát biểu đúng về phạm vi dự án.",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Phạm vi dự án mô tả những việc cần phải làm của dự án.",
+      "Phạm vi dự án mô tả những việc không cần phải làm của dự án.",
+      "Xác định phạm vi dự án là một trong những công việc quan trọng nhất."
+    ],
+    "image": null
+  }
 ]

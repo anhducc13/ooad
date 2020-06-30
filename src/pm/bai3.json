@@ -1,13 +1,152 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Đâu là sản phẩm của quy trình khởi tạo dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quy định của dự án",
+      "Kế hoạch dự án với các nguồn lực đã được phân bổ",
+      "WBS (Cấu trúc chi tiết công việc)",
+      "Danh sách các công việc"
+    ],
+    "image": null
+  },
+  {
+    "text": "Việc lựa chọn mô hình phát triển phần mềm cần thực hiện ở giai đoạn nào của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Lập kế hoạch",
+      "Kiểm tra, giám sát dự án",
+      "Triển khai dự án",
+      "Kết thúc dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Việc lựa chọn mô hình phát triển phần mềm dựa trên:",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Kích cỡ dự án",
+      "Tài nguyên dự án",
+      "Ràng buộc dự án về vốn đầu tư và thời gian",
+      "Chủ đầu tư"
+    ],
+    "image": null
+  },
+  {
+    "text": "Hình dưới đây minh họa cho mối quan hệ giữa năm nhóm quy trình trong quản lý dự án. Nhóm quy trình nào sau đây tương ứng ở ô trống A?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quy trình khởi tạo",
+      "Quy trình lập kế hoạch",
+      "Quy trình thực hiện",
+      "Quy trình kiểm tra và giám sát"
+    ],
+    "image": "abc"
+  },
+  {
+    "text": "Hình dưới đây minh họa cho mối quan hệ giữa năm nhóm quy trình trong quản lý dự án. Nhóm quy trình nào sau đây tương ứng ở ô trống B?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quy trình lập kế hoạch",
+      "Quy trình khởi tạo",
+      "Quy trình thực hiện",
+      "Quy trình kiểm tra và giám sát"
+    ],
+    "image": "abc"
+  },
+  {
+    "text": "Văn bản sau đây chỉ ra mục lục của bản kế hoạch dự án được đệ trình cho đội quản lý của công ty. Mục đích của bản kế hoạch dự án này là để báo cáo khả năng sinh lời của dự án nghiệp vụ như một phần của kế hoạch trung hạn. Tiêu đề nào sau đây là thích hợp nhất để được chèn vào ô trống A?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Phân tích hiệu quả chi phí của phát triển hệ thống",
+      "Đánh giá năng suất phát triển (lý do lựa chọn phương pháp phát triển hệ thống)",
+      "Danh sách phần cứng mới được cài đặt để phát triển hệ thống",
+      "Định vị phát triển hệ thống"
+    ],
+    "image": "abc"
+  },
+  {
+    "text": "Cách tiếp cận nào để xây dựng WBS bằng cách viết ra/vẽ ra tất cả các ý tưởng liên quan một cách không có cấu trúc/không có thứ tự.",
+    "numOfRightAnswer": 1,
+    "answers": ["Mind mapping", "Top-down", "Bottom-up", "Analogy"],
+    "image": null
+  },
+  {
+    "text": "Các phần mềm hỗ trợ quản lý dự án giúp bạn phát triển một ……….., làm tiền đề cho việc tạo các biểu đồ Gantt, xác định nguồn lực và phân bổ chi phí.",
+    "numOfRightAnswer": 1,
+    "answers": ["WBS", "Kế hoạch dự án", "Lịch trình dự án", "Sản phẩm"],
+    "image": null
+  },
+  {
+    "text": "Trong số các mô hình quy trình phát triển phần mềm, mô hình nào sau đây là một mô hình có thể cải thiện mức độ hoàn tất của một hệ thống bằng cách lặp đi lặp lại việc thực hiện chu trình phát triển?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Mô hình xoắn ốc",
+      "Mô hình RAD",
+      "Mô hình thác nước",
+      "Mô hình bản mẫu"
+    ],
+    "image": null
+  },
+  {
+    "text": "Câu nào nào dưới đây mô tả chính xác mối quan hệ giữa các pha của một dự án và vòng đời của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Trong quản lý dự án, chuỗi các pha và mối quan hệ giữa chúng thường được quan tâm như vòng đời của dự án",
+      "Vòng đời của dự án bao gồm khoảng thời gian dự án được thực hiện và phản phẩm dự kiến của dự án",
+      "Vòng đời của dự án là chuỗi các hoạt động trong khi các pha được sử dụng để điều khiển các hoạt động này",
+      "Vòng đời của dự án mô tả các quy trình lặp lại trong quá trình quản lý dự án và nó được dùng để quản lý lịch trình của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Khuyến cáo nào sau đây là hợp lý nhất?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Hệ thống có nhiều tương tác: chọn mô hình bản mẫu (prototyping model)",
+      "Hệ thống lớn, phức tạp nên lựa chọn mô hình thác nước",
+      "Vốn đầu tư nhỏ: chọn mô hình xoắn ốc",
+      "Thời gian thực hiện ngắn: mô hình thác nước"
+    ],
+    "image": null
+  },
+  {
+    "text": "Biểu đồ dưới đây chỉ ra việc chia nhỏ các hoạt động dự án cụ thể từ đại cương tới mức chi tiết. Tên của biểu đồ này là gì?",
+    "numOfRightAnswer": 1,
+    "answers": ["WBS", "DFD", "PERT", "DOA"],
+    "image": "abc"
+  },
+  {
+    "text": "Đâu là đặc tính quan trọng nhất của mô hình xoáy ốc?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quản lý rủi ro",
+      "Quản lý chất lượng",
+      "Quản lý hiệu suất",
+      "Quản lý thay đổi"
+    ],
+    "image": null
+  },
+  {
+    "text": "Bước đầu tiên trong vòng đời phát triển phần mềm (Software Development Life Cycle) là:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Khảo sát và phân tích hệ thống",
+      "Thiết kế",
+      "Kiểm thử",
+      "Mã hóa"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nếu các yêu cầu dễ hiểu và dễ định nghĩa đầy đủ thì mô hình tiến trình nào là phù hợp?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Mô hình thác nước",
+      "Mô hình tiến hóa",
+      "Mô hình phát triển hướng thành phần",
+      "Không có đáp án nào đúng"
+    ],
+    "image": null
+  }
 ]

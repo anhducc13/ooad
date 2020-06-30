@@ -1,13 +1,117 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Rủi ro của một dự án là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "những yếu tố có thể ảnh hưởng tích cực hoặc tiêu cực đến dự án.",
+      "những yếu tố có thể ảnh hưởng tiêu cực đến dự án.",
+      "những yếu tố có thể ảnh hưởng tích cực đến dự án.",
+      "những thay đổi trong quá trình thực hiện dự án."
+    ],
+    "image": null
+  },
+  {
+    "text": "Rủi ro của một dự án có thể …  ",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "phát hiện, giảm khả năng xảy ra và giảm thiểu thiệt hại",
+      "phát hiện và ngăn chặn kịp thời",
+      "không quản lý được",
+      "loại trừ triệt để"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là giải pháp để quản lý dự án thực hiện nhằm giảm thiểu rủi ro thất bại của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Áp dụng quy trình quản lý rủi ro phù hợp và tăng cường giám sát quá trình thực hiện dự án",
+      "Tăng gấp đôi nhân lực của dự án",
+      "Yêu cầu tăng kinh phí cho dự án",
+      "Không có giải pháp nào trong các giải pháp đã nêu"
+    ],
+    "image": null
+  },
+  {
+    "text": "Chiến lược phản ứng rủi ro nhằm làm giảm khả năng xảy ra hay ảnh hưởng của những rủi ro bất lợi tới ngưỡng cửa chấp thuận được gọi là:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giảm thiểu rủi ro",
+      "Tránh rủi ro",
+      "Chấp thuận rủi ro",
+      "Chuyển giao rủi ro"
+    ],
+    "image": null
+  },
+  {
+    "text": "Một công ty quyết định không cạnh tranh trong một gói thầu. Lý do được giám đốc đưa ra là cơ hội hoàn tất dự án trong khung thời gian dự định là rất mong manh. Đây là chiến lược giải quyết rủi ro nào?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Tránh rủi ro",
+      "Giảm thiểu rủi ro",
+      "Chấp thuận rủi ro",
+      "Chuyển giao rủi ro"
+    ],
+    "image": null
+  },
+  {
+    "text": "Mô tả nào sau đây là mô tả thích hợp liên quan tới bản kế hoạch quản lý rủi ro cho dự án phát triển hệ thống?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Trong khi phát triển bản kế hoạch quản lý rủi ro, điều mong muốn là xác định mức ưu tiên các yếu tố rủi ro đã được nhận biết dựa trên tổn thất tiềm năng mà các rủi ro có thể gây ra và các chi phí thực hiện các biện pháp đối phó tương ứng.",
+      "Vì không rõ loại rủi ro nào sẽ xảy ra trong tương lai, điều mong muốn là nhận diện trước các yếu tố rủi ro và rồi cân nhắc biện pháp đối phó khi một rủi ro thực sự xảy ra.",
+      "Khi một rủi ro thực sự xảy ra và làm cho khó đạt được mục tiêu dự án hơn, điều mong muốn là phát triển bản kế hoạch quản lý rủi ro bằng việc nhận biết các yếu tố rủi ro.",
+      "Trong khi nhận biết các yếu tố rủi ro, chỉ các yếu tố có tác động nhiều hơn phải được cân nhắc và các yếu tố có tác động ít hơn có thể được bỏ qua."
+    ],
+    "image": null
+  },
+  {
+    "text": "Các câu hỏi cần được hỏi để đánh giá rủi ro dự án tổng thể bao gồm:",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Các nhà quản lý dự án hàng đầu có cam kết chính thức để hỗ trợ dự án?",
+      "Người dùng có cam kết hỗ trợ dự án?",
+      "Các yêu cầu có được hiểu rõ bởi nhóm phát triển và khách hàng không?"
+    ],
+    "image": null
+  },
+  {
+    "text": "Giám sát rủi ro liên quan đến việc xem các chỉ số rủi ro được xác định cho dự án và không xác định tính hiệu quả của các bước giảm thiểu rủi ro.",
+    "numOfRightAnswer": 1,
+    "answers": ["Sai", "Đúng"],
+    "image": null
+  },
+  {
+    "text": "… là một yếu tố không biết trước mà khi nó xảy ra thì có thể ảnh hưởng tiêu cực hoặc tích cực đến việc hoàn thành các mục tiêu của dự án.",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Rủi ro",
+      "Mặt tích cực của rủi ro",
+      "Quản lý rủi ro",
+      "Phân tích rủi ro"
+    ],
+    "image": null
+  },
+  {
+    "text": "Quy trình quản lý rủi ro nào sau đây liên quan đến việc xếp hạng ưu tiên các rủi ro dựa trên xác suất xảy ra và tác hại của chúng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Thực hiện việc phân tích định tính rủi ro (qualitative risk analysis)",
+      "Xác định danh sách các rủi ro",
+      "Thực hiện việc phân tích định lượng rủi ro (quantitative risk analysis)",
+      "Lập kế hoạch quản lý rủi ro"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhóm dự án đã quyết định không sử dụng phiên bản sắp được phát hành của sản phẩm vì sợ lịch trình của dự án bị chậm tiến độ. Chiến lược phòng chống rủi ro nào sau đây đang được nhóm dự án sử dụng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Tránh rủi ro",
+      "Chấp nhận rủi ro",
+      "Chuyển giao rủi ro",
+      "Giảm thiểu rủi ro"
+    ],
+    "image": null
+  }
 ]

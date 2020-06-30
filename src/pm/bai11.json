@@ -1,13 +1,174 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Tại sao quản lý dự án phải sâu sát trong quá trình triển khai dự án?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Vì đấy là nhiệm vụ của quản lý dự án",
+      "Thực tiễn triển khai dự án khác xa so với những gì bạn biết qua các cuộc họp và báo cáo.",
+      "Nhân viên dự án sẽ tin tưởng và quyết tâm hơn nếu quản lý dự án thường xuyên sâu sát trong quá trình triển khai dự án."
+    ],
+    "image": null
+  },
+  {
+    "text": "Tại sao làm việc với chủ đầu tư (sponsor) là một thách thức lớn trong quản lý dự án?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Chủ đầu tư là lãnh đạo trực tiếp và cao nhất của dự án.",
+      "Chủ đầu tư là người đưa ra nhiều thay đổi liên quan đến thiết kế, tài chính, nhân sự, …",
+      "Chủ đầu tư rất bận rộn nên thường xuyên phản hồi chậm các vấn đề liên quan đến dự án, làm tăng sức ép về tiến độ."
+    ],
+    "image": null
+  },
+  {
+    "text": "Một dự án kết thúc khi …",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Hết kinh phí được phân bổ (kinh phí dự kiến)",
+      "Quá thời hạn dự kiến",
+      "Hoàn thành mục tiêu đề ra trong thời hạn và kinh phí dự kiến"
+    ],
+    "image": null
+  },
+  {
+    "text": "Tài liệu của dự án sau khi kết thúc sẽ …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "được lưu trữ sao cho dễ dàng tra cứu",
+      "được giao cho khách hàng để lưu trữ",
+      "bị hủy bỏ vì dự án đã kết thúc và không cần nữa",
+      "bị chia nhỏ và giao cho từng bộ phận tương ứng của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Lý do chính để một dự án thất bại là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "quản lý yếu kém",
+      "có quá nhiều rủi ro xảy ra trong quá trình thực hiện dự án",
+      "thiếu sự hỗ trợ của khách hàng",
+      "Sự yếu kém của đội dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Thu thập và đánh giá hiện trạng là làm rõ sự khác biệt giữa thực hiện dự án thực tế so với kế hoạch. Sự khác biệt nhiều chứng tỏ tổ dự án thực hiện …",
+    "numOfRightAnswer": 1,
+    "answers": ["có thể tốt hoặc xấu", "rất xấu", "rất tốt", "rất hiệu quả"],
+    "image": null
+  },
+  {
+    "text": "Tại sao phải quản lý chặt chẽ tiến độ của dự án?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Tiến độ thường là sức ép lớn nhất cho đội dự án.",
+      "Có rất nhều nguyên nhân gây chậm tiến độ, cần biết nguyên nhân gốc rễ gây chậm tiến độ (năng lực nhà thầu, chủ đầu tư, yêu tố pháp lý, thời tiết …)",
+      "Hiểu thấu đáo các công việc hiện tại, tương lai để tránh bị bất ngờ không lường trước và luôn có thời gian dự phòng."
+    ],
+    "image": null
+  },
+  {
+    "text": "Bản kế hoạch tin học hóa đã được phát triển, nhưng nó còn phải được xác định liệu chức năng nào đó có nên được bao gồm trong khi phát triển hay không. Khi dự án phát triển hệ thống này được thuê thầu phụ, tùy chọn nào sau đây là tùy chọn được ưa thích mà người quản lý dự án nên chọn?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Để hỗ trợ cho người làm khoán ngoài hoàn thành đặc tả chức năng theo hợp đồng ủy thác và sau đó thực hiện phát triển hệ thống dựa trên đặc tả theo hợp đồng củng cố.",
+      "Để xác nhận ý định của đại diện của bên làm khoán ngoài, ước lượng chi phí dự án trên đặc tả đã được quyết định trong bản kế hoạch và thực hiện phát triển theo hợp đồng củng cố (underpinning contract).",
+      "Để thực hiện dự án theo hợp đồng tích hợp hệ thống khi một số chức năng vẫn còn chưa được xác định.",
+      "Để ký kết hợp đồng củng cố với tổng số giờ công phát triển ước tính gấp đôi để giảm nhẹ rủi ro."
+    ],
+    "image": null
+  },
+  {
+    "text": "Phát biểu nào sau đây là mô tả chính xác về quản lý tiến độ?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quản lý tiến độ là xem xét mỗi công việc trong dự án có thực hiện đúng theo kế hoạch không",
+      "Quản lý tiến độ là kiểm soát các công việc hiện tại của một dự án và chất lượng của chúng",
+      "Quản lý tiến độ là theo dõi dự án để so sánh với mục đích của dự án đó",
+      "Quản lý tiến độ là lên kế hoạch cho mọi quy trình của một dự án dưới một hạn chế nào đó về thời gian."
+    ],
+    "image": null
+  },
+  {
+    "text": "Phát biểu nào sau đây là mô tả chính xác về quản lý tiến độ?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quản lý tiến độ là xem xét mỗi công việc trong dự án có thực hiện đúng theo kế hoạch không",
+      "Quản lý tiến độ là kiểm soát các công việc hiện tại của một dự án và chất lượng của chúng",
+      "Quản lý tiến độ là theo dõi dự án để so sánh với mục đích của dự án đó",
+      "Quản lý tiến độ là lên kế hoạch cho mọi quy trình của một dự án dưới một hạn chế nào đó về thời gian."
+    ],
+    "image": null
+  },
+  {
+    "text": "Quản lý dự án sẽ làm gì khi một công việc không thực hiện đúng kế hoạch?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Tìm nguyên nhân gốc, nguyên nhân bản chất gây ra sự sai khác",
+      "Thúc ép thành viên dự án thực hiện công việc nhanh hơn",
+      "Sửa lại kế hoạch dự án",
+      "Phạt những thành viên liên quan"
+    ],
+    "image": null
+  },
+  {
+    "text": "Bước đầu tiên trong giai đoạn hoàn thiện dự án là:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Hỏi ý kiến về sự chấp thuận của người sử dụng",
+      "Hoàn thiện hợp đồng",
+      "Xây dựng tài liệu hướng dẫn sử dụng",
+      "Làm tài liệu về những bài học thu được"
+    ],
+    "image": null
+  },
+  {
+    "text": "Các kỹ thuật giải quyết xung đột có thể được dùng trong dự án bao gồm:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Dàn xếp, đối đầu, ép buộc và rút lui",
+      "Rút lui, thoả hiệp, kiểm soát và ép buộc",
+      "Kiểm soát, ép buộc, dàn xếp, rút lui",
+      "Đối đầu, thoả hiệp, dàn xếp, quản lý"
+    ],
+    "image": null
+  },
+  {
+    "text": "Dự án chậm hơn lịch trình do xung đột giữa các thành viên. Sau khi giải quyết xung đột, để đáp ứng được thời hạn chuyển giao thì quản lý dự án nên xem xét …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Phân chia lại nguồn lực",
+      "Khiển trách về việc chuyển giao muộn trong đội ngũ thành viên",
+      "Điều chỉnh nguồn lực",
+      "Tối ưu hoá lịch trình"
+    ],
+    "image": null
+  },
+  {
+    "text": "Phương pháp nào giải quyết xung đột hiệu quả?",
+    "numOfRightAnswer": 1,
+    "answers": ["Giải quyết vấn đề", "Thỏa hiệp", "Ép buộc", "Rút lui"],
+    "image": null
+  },
+  {
+    "text": "Dự án được thực hiện tốt theo kinh phí; tuy nhiên để đáp ứng các phần chuyển giao của khách hàng thì ngày tháng chuyển giao tới khách hàng sẽ bị muộn hơn 2 tuần. Không có nguồn lực phụ phân công cho dự án. Quản lý dự án nên làm gì?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Thông báo cho khách hàng về việc trễ hạn và tìm kiếm sự ủng hộ thích hợp bằng tài liệu.",
+      "Thay đổi phạm vi các đặc tính của khách hàng để chuyển giao sản phẩm vào ngày tháng chuyển giao đã hứa.",
+      "Tuân theo quy trình thay đổi được phác thảo trong quy định dự án.",
+      "Khi dự án nằm trong giới hạn kinh phí thì bạn chẳng phải làm gì cả."
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là thực tiễn quan trọng cho quản lý dự án dựa trên hiệu suất?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "theo dõi lỗi theo mục tiêu chất lượng",
+      "ước tính chi phí thực tế",
+      "quản lý rủi kho hiệu quả"
+    ],
+    "image": null
+  }
 ]

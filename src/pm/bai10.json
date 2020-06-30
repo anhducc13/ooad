@@ -1,13 +1,122 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Chức năng chính của ban quản lý thay đổi là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Duyệt ảnh hưởng của các yêu cầu thay đổi",
+      "Đưa ra yêu cầu thay đổi",
+      "Trình bày những lợi ích quản lý cao nhất",
+      "Xác định những phạm vi mới của công việc dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đội dự án đang tiến hành hoàn tất định nghĩa phạm vi và đang trình bày báo cáo phạm vi về những yêu cầu thay đổi của khách hàng và nhà tài trợ. Với vai trò là quản lý dự án thì phương pháp tiếp cận tốt nhất là gì?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Phác thảo những ảnh hưởng của thay đổi trong việc đáp ứng các mục tiêu của dự án sử dụng các ví dụ minh hoạ thay đổi phạm vi, thời gian và chi phí",
+      "Lắng nghe yêu cầu và chỉ ra các nguồn lực thêm vào sẽ được yêu cầu để hoàn tất dự án vào cùng thời hạn",
+      "Chấp nhận thay đổi và rời khỏi đó để qua trở lại với báo cáo phạm vi đã thay đổi",
+      "Chỉ ra rằng thời gian chuyển giao cho dự án sẽ được kéo dài"
+    ],
+    "image": null
+  },
+  {
+    "text": "Hoạt động nào trong các hoạt động sau đây được hỗ trợ bởi các công cụ quản lý cấu hình phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Quản lý phiên bản",
+      "Quản lý phiên bản",
+      "Quản lý chi phí",
+      "Quản lý chất lượng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là lý do chính dẫn đến tính cấp thiết của việc quản lý thay đổi?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Vì thay đổi là không tránh khỏi và thường xuyên xảy ra",
+      "Vì đây là yêu cầu của quy trình quản lý dự án",
+      "Vì khách hàng yêu cầu cần quản lý thay đổi",
+      "Vì quản lý thay đổi góp phần giảm kinh phí và nâng cao hiệu quả của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Chọn phát biểu đúng về quản lý thay đổi.",
+    "numOfRightAnswer": 2,
+    "answers": [
+      "Mọi thay đổi cần được quản lí trên cơ sở tập trung",
+      "Quản lý dự án cần tạo ra hệ thống quản lý thay đổi và báo cho mọi người biết về nó.",
+      "Quản lý thay đổi không quá quan trọng vì các yêu cầu đã được thống nhất từ trước."
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là đối tượng quản lý của quản lý cấu hình dự án phần mềm?",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "Chương trình máy tính (mã nguồn và mã máy)",
+      "Công cụ phần mềm",
+      "Tài liệu và các ca kiểm thử (dữ liệu kiểm thử)"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhiệm vụ nào sau đây không phải là một phần của quản lý cấu hình phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm soát chất lượng",
+      "Kiểm soát thay đổi",
+      "Kiểm soát phiên bản",
+      "Lập báo cáo"
+    ],
+    "image": null
+  },
+  {
+    "text": "Các đối tượng cấu hình của các ứng dụng Web có thể được quản lý theo cách tương tự như các đối tượng cấu hình phần mềm thông thường ngoại trừ:",
+    "numOfRightAnswer": 1,
+    "answers": ["Nội dung", "Các chức năng", "Giao diện", "Người dùng"],
+    "image": null
+  },
+  {
+    "text": "Mục đích chính của báo cáo trạng thái cấu hình là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "đảm bảo rằng thông tin thay đổi được truyền đạt tới tất cả các bên bị ảnh hưởng",
+      "cho phép sửa đổi lịch trình dự án và dự toán chi phí của các nhà quản lý dự án",
+      "đánh giá hiệu suất của các nhà phát triển và tổ chức phần mềm",
+      "để biết được kết quả thực hiện việc thay đổi"
+    ],
+    "image": null
+  },
+  {
+    "text": "Khi quản lý cấu hình phần mềm là một hoạt động chính thức, kiểm tra cấu hình phần mềm được thực hiện bởi …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Nhóm đảm bảo chất lượng",
+      "Đội phát triển",
+      "Chuyên gia kiểm thử",
+      "Chuyên gia kỹ thuật"
+    ],
+    "image": null
+  },
+  {
+    "text": "Một … mới được định nghĩa khi các thay đổi lớn đã được thực hiện cho một hoặc nhiều đối tượng cấu hình.",
+    "numOfRightAnswer": 1,
+    "answers": ["Phiên bản", "Mô-đun", "Thực thể", "Thành phần"],
+    "image": null
+  },
+  {
+    "text": "Yêu cầu thay đổi trong một dự án đã bị từ chối cách đây vài tuần. Hôm qua, người quản lý dự án phát hiện ra rằng nó vẫn được thực hiện bởi các thành viên trong nhóm, những người biết về yêu cầu thay đổi, nhưng không phải là từ chối. Để tránh tình huống như vậy, các yêu cầu thay đổi bị từ chối phải được truyền đạt liên tục cho các bên liên quan thông qua quy trình nào?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Thực hiện kiểm soát thay đổi tích hợp",
+      "Kiểm tra giám sát rủi ro",
+      "Thẩm định phạm vi dự án",
+      "Kiểm soát tiến độ dự án"
+    ],
+    "image": null
+  }
 ]

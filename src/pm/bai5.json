@@ -1,13 +1,199 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Trong phương pháp điểm chức năng (FP), tổ hợp nào sau đây là tổ hợp thích hợp của các đặc điểm hệ thống được dùng để điều chỉnh số các điểm chức năng được ước lượng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Khả năng của người dùng cuối, thời gian đáp ứng và khối lượng giao tác",
+      "Phần trăm đầu vào trực tuyến, ngôn ngữ lập trình cho phát triển và khả năng sử dụng lại",
+      "Khối lượng trao đổi dữ liệu, độ phức tạp của logic và số các bước của chương trình",
+      "Khối lượng xử lý ngoại lệ, kỹ năng phát triển nhân viên và số lượng các địa điểm vận hành"
+    ],
+    "image": null
+  },
+  {
+    "text": "Mô tả nào sau đây là thích hợp liên quan tới ước lượng giờ công trong phát triển hệ thống?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Để dùng COCOMO, phải thu thập đủ dữ liệu về năng suất và hiệu năng của công ty",
+      "Kích cỡ của chương trình được phát triển trong quá khứ là thông tin hữu ích khi ước lượng, nhưng giờ công thì không vì kỹ năng phát triển biến đổi rộng giữa các nhân viên",
+      "Ước lượng về số giờ công là hiệu quả cho quản lý tiến độ, nhưng chẳng có gì liên quan tới quản lý chất lượng phần mềm",
+      "Để thực hiện ước lượng bằng việc dùng phương pháp điểm chức năng, cần phải hiểu số lượng bước chương trình"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là ưu điểm chính của việc ước lượng kích thước của phần mềm sử dụng LOC?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "LOC dễ dàng được tính toán",
+      "LOC phụ thuộc vào ngôn ngữ lập trình",
+      "LOC độc lập với ngôn ngữ lập trình",
+      "LOC là giải pháp duy nhất để ước lượng kích thước của phần mềm"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là ưu điểm chính của việc ước lượng kích thước của phần mềm sử dụng phương pháp điểm chức năng (FP)?",
+    "numOfRightAnswer": 2,
+    "answers": [
+      "FP độc lập với ngôn ngữ lập trình",
+      "FP có thể tính toán sớm (trước khi thiết kế hoàn thành)",
+      "FP dễ dàng được tính toán"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đối tượng nào dưới đây không được quan tâm để ước lượng trong quản lý dự án phần mềm?",
+    "numOfRightAnswer": 1,
+    "answers": ["Nhu cầu thị trường (markets)", "Đầu vào", "Đầu ra", "Kết quả"],
+    "image": null
+  },
+  {
+    "text": "Lý do duy nhất để một kết quả ước lượng thiếu tin cậy là sự thiếu kinh nghiệm của người thực hiện ước lượng.",
+    "numOfRightAnswer": 1,
+    "answers": ["Sai", "Đúng"],
+    "image": null
+  },
+  {
+    "text": "Một trong những mục đích của lập kế hoạch dự án là … ",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giúp cho quản lý dự án tiến hành các ước lượng phù hợp về chi phí và lịch trình thực hiện dự án",
+      "Thuyết phục khách hàng tin vào tính khả thi của dự án",
+      "Xây dựng dữ liệu lịch sử phát triển dự án",
+      "Để quyết định lợi ích về mặt kinh phí khi thực hiện dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Tính khả thi của một dự án phần mềm được phân tích dựa trên các yếu tố …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kỹ thuật, tài chính, thời gian và nguồn lực",
+      "Phạm vi, các ràng buộc và thị trường",
+      "Năng lực và kinh nghiệm của nhóm phát triển",
+      "Tiềm lực tài chính của chủ đầu tư"
+    ],
+    "image": null
+  },
+  {
+    "text": "Số nhân công cần thiết cho một dự án được quyết định …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "sau khi hoàn thành ước lượng nỗ lực/công sức (effort) của việc phát triển dự án",
+      "bởi nguồn kinh phí được cấp của dự án",
+      "từ kết quả đánh giá độ phức tạp của dự án",
+      "tất cả các đáp án trên"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là mục tiêu chính của quá trình quản lý chi phí dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "để đảm bảo tiền đầu tư của doanh nghiệp/tổ chức được sử dụng hiệu quả",
+      "để hoàn thành dự án với chi phí nhỏ nhất có thể",
+      "để hoàn thành dự án với chi phí trong định mức đã được phê duyệt",
+      "để cung cấp chân thực và chính xác thông tin về chi phí của dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "COCOMO II cho phép ước lượng dự án phần mềm với đầu vào là …",
+    "numOfRightAnswer": 3,
+    "answers": [
+      "LOC",
+      "FP (số điểm chức năng)",
+      "Số điểm đối tượng (object points)"
+    ],
+    "image": null
+  },
+  {
+    "text": "Yêu câu của khách hàng gửi cho nhóm phát triển để ước lượng sớm dự án thường được gọi là …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "SoW",
+      "Đặc tả yêu cầu",
+      "Thiết kế của phần mềm",
+      "Quy trình nghiệp vụ của khách hàng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là phương pháp tốt để ước lượng sớm dự án với đầu vào là kích thước dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Sử dụng kết quả thống kê từ CSDL các dự án đã hoàn thành",
+      "Thương lượng với khách hàng",
+      "Sử dụng ý kiến chuyên gia",
+      "Sử dụng các phương pháp toán học"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đâu là quy trình để ước lượng kích thước của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Xây dựng WBS từ SoW, ước lượng kích thước từng công việc của WBS để có được kích thước của dự án",
+      "Hỏi ý kiến khách hàng",
+      "Sử dụng ý kiến chuyên gia",
+      "Sử dụng dự án tương tự"
+    ],
+    "image": null
+  },
+  {
+    "text": "Công cụ nào sau đây có thể hỗ trợ để lập dự toán kinh phí cho dự án?",
+    "numOfRightAnswer": 1,
+    "answers": ["MS Excel", "MS Project ", "MS Word", "MS Access  "],
+    "image": null
+  },
+  {
+    "text": "Phương pháp nào là cách tiếp cận hiệu quả để xây dựng ước tính thời đoạn nhiệm vụ dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Ý kiến chuyên gia",
+      "Ước lượng trên xuống",
+      "Ước lượng ngẫu nhiên",
+      "Kỹ thuật giá trị"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhân tố nào có ảnh hưởng lớn nhất tới chi phí lao động theo ước tính trên đơn vị cho dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Các yêu cầu mức độ kỹ năng nguồn nhân lực",
+      "Thông tin lịch sử về chi phí các dự án tương tự",
+      "Sử dụng các nhà cung cấp bên ngoài.",
+      "Số lượng chuyên gia được sử dụng trong dự án"
+    ],
+    "image": null
+  },
+  {
+    "text": "Nhà tài trợ dự án chịu trách nhiệm về …",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Cả nguồn tài chính và kết quả dự án.",
+      "Nguồn tài chính chứ không phải kết quả.",
+      "Không phải nguồn tài chính cũng không phải kết quả dự án.",
+      "Kết quả dự án chứ không phải nguồn tài chính."
+    ],
+    "image": null
+  },
+  {
+    "text": "Các yếu tố cấn ước lượng là …",
+    "numOfRightAnswer": 1,
+    "answers": ["Công sức (effort)", "Thời gian", "Nhân sự (bao nhiêu người)"],
+    "image": null
+  },
+  {
+    "text": "Chọn phát biểu đúng về ước lượng dự án.",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Người càng có kinh nghiệm về ước lượng thì ước lượng càng chính xác",
+      "Khi có ít thông tin thì kết quả ước lượng càng thiếu chính xác",
+      "Công việc càng phức tạp (lớn) thì kết quả ước lượng càng thiếu chính xác"
+    ],
+    "image": null
+  }
 ]

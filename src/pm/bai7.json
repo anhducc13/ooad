@@ -1,13 +1,134 @@
 [
-    {
-        "text": "Mục tiêu của phân tích là gì?",
-        "numOfRightAnswer": 1,
-        "answers": [
-            "chuyển các yêu cầu chức năng thành các khái niệm phần mềm",
-            "chuyển các yêu cầu chức năng thành mã",
-            "chuyển các yêu cầu thành thiết kế hệ thống",
-            "chuyển các khái niệm thế giới thực thành các đối tượng định hướng giải pháp"
-        ],
-        "image": null
-    }
+  {
+    "text": "Nhóm người nào chịu trách nhiệm chính về chất lượng của dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Đội dự án",
+      "Khách hàng",
+      "Người tài trợ dự án",
+      "Các lãnh đạo cấp cao"
+    ],
+    "image": null
+  },
+  {
+    "text": "Chiến lược kiểm thử nào sử dụng đặc tả yêu cầu để sinh các ca kiểm thử?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm thử hộp đen",
+      "Kiểm thử hộp trắng",
+      "Kiểm thử hộp xám",
+      "Kiểm thử chấp nhận"
+    ],
+    "image": null
+  },
+  {
+    "text": "Mục tiêu chính của kiểm thử chấp nhận là: ",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Đảm bảo rằng hệ thống có thể chấp nhận được đối với tất cả người dùng",
+      "Tìm lỗi trong hệ thống",
+      "Kiểm thử hệ thống với các hệ thống khác",
+      "Kiểm thử một quan điểm công việc"
+    ],
+    "image": null
+  },
+  {
+    "text": "Những mức độ kiểm thử nào thường được dùng trong mô hình chữ V?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống và kiểm thử chấp nhận",
+      "Kiểm tra gia tăng, kiểm tra toàn diện, kiểm tra thăm dò và kiểm tra dữ liệu",
+      "Kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận và kiểm thủ hồi quy",
+      "Kiểm thử Alpha, kiểm thử Beta, kiểm thử hộp đen và kiểm thử hộp trắng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Hoạt động nào sau đây không cần thực thi/chạy chương trình?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Code review",
+      "Kiểm thử hiệu năng ",
+      "Kiểm thử cấu trúc",
+      "Kiểm thử chức năng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Kiểm thử các yêu cầu phi chức năng bao gồm:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng, khả năng chịu tải, tính dễ dùng, …",
+      "Kiểm thử để xem liệu hệ thống có hoạt động đúng chức năng hay không",
+      "Kiểm thử các chức năng có thể không tồn tại",
+      "Kiểm thử độ tin cậy của hệ thống"
+    ],
+    "image": null
+  },
+  {
+    "text": "Đội dự án gần đi tới phần cuối cùng của việc xây dựng và sẵn sàng kiểm thử toàn bộ ứng dụng. Họ sẽ thực hiện loại hình kiểm thử nào?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm thử hệ thống",
+      "UAT (Kiểm thử chấp thuận người sử dụng)",
+      "Kiểm thử đơn vị",
+      "Kiểm thử tích hợp"
+    ],
+    "image": null
+  },
+  {
+    "text": "Kiểm soát chất lượng là:",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Giám sát các kết quả của dự án cụ thể để xác định xem liệu chúng có tuân theo các chuẩn chất lượng liên quan hay không.",
+      "Đánh giá toàn bộ kết quả dự án trên cơ sở đều đặn.",
+      "Hoạt động để tăng tính hiệu lực và hiệu suất của dự án.",
+      "Xác định các chuẩn chất lượng nào liên quan tới dự án."
+    ],
+    "image": null
+  },
+  {
+    "text": "Một trong các quy trình nào sau đây là quan trọng nhất để đáp ứng các mục tiêu quản lý chất lượng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Lập kế hoạch",
+      "Xem xét kỹ lưỡng",
+      "Kiểm định chất lượng.",
+      "Phân tích xu hướng"
+    ],
+    "image": null
+  },
+  {
+    "text": "Phát biểu nào về kiểm thử chấp thuận người dùng là đúng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Kiểm thử người dùng nên chứng tỏ rằng hệ thống vận hành tốt với các yêu cầu đã được xác định.",
+      "Kiểm thử người dùng tạo cơ hội cho người dùng cải thiện nhu cầu của họ.",
+      "Kiểm thử người dùng tạo cơ hội tốt để nhận biết các sai sót trong mã nguồn.",
+      "Kiểm thử người dùng nên được thực hiện như một phần của giai đoạn đào tạo triển khai hệ thống."
+    ],
+    "image": null
+  },
+  {
+    "text": "Tại sao việc lấy ý kiến của người sử dụng về khả năng chấp nhận sản phẩm là một phần của kế hoạch quản lý chất lượng?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Để đảm bảo rằng dự án tuân theo mong muốn của người sử dụng bởi vì nó liên quan tới chất lượng sản phẩm.",
+      "Để đảm bảo rằng dự án tuân theo mong muốn về ràng buộc kinh phí của người sử dụng.",
+      "Để đảm bảo rằng người sử dụng không đệ trình yêu cầu thay đổi muộn trong dự án.",
+      "Để đảm bảo rằng người sử dụng sẽ không có ý kiến gì thêm khi sử dụng sản phẩm."
+    ],
+    "image": null
+  },
+  {
+    "text": "Giải thích nào sau đây là phù hợp với đảm bảo chất lượng trong quản lý chất lượng dự án?",
+    "numOfRightAnswer": 1,
+    "answers": [
+      "Các hoạt động được lập kế hoạch và có hệ thống đảm bảo rằng các tiêu chí chất lượng được chỉ rõ trong một dự án được đáp ứng.",
+      "Xác định phương pháp loại bỏ nguyên nhân của một kết quả không thỏa mãn liên quan đến tiêu chí chất lượng được chỉ rõ cho một dự án.",
+      "Giám sát xem liệu kết quả thực hiện dự án có tuân thủ các tiêu chí chất lượng đã được chỉ rõ hay không.",
+      "Thiết lập các tiêu chí chất lượng thích hợp cho kết quả thực hiện dự án và xác định các thủ tục để đáp ứng cho các tiêu chí này."
+    ],
+    "image": null
+  }
 ]
