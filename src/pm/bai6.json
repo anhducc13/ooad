@@ -97,7 +97,7 @@
       "Nếu công việc (3)→(5) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày.",
       "Nếu công việc (6)→(8) có thể được rút ngắn lại một ngày, tổng số ngày cần để hoàn thành mọi hoạt động cũng có thể được rút ngắn lại một ngày."
     ],
-    "image": "abc"
+    "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/106085080_936327613460135_1811541505605110445_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=alVi67sykyIAX96XgMt&_nc_ht=scontent.fhan2-3.fna&oh=5ade437b45b9f65f55682114dc9db056&oe=5F21355B"
   },
   {
     "text": "Mô tả nào sau đây là thích hợp liên quan tới các đặc điểm của biểu đồ Gantt được dùng để quản lý quy trình và quản lý tiến độ trong dự án?",
@@ -125,31 +125,31 @@
     "text": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày bắt đầu tiến hành công việc L sớm nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1",
     "numOfRightAnswer": 1,
     "answers": ["Ngày 20", "Ngày 18", "Ngày 17", "Ngày 19"],
-    "image": "abc"
+    "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/78468754_195910671804752_1663617002324192309_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=TyiXFcfJ5OAAX9pqk94&_nc_ht=scontent.fhan2-4.fna&oh=fd9193a2b39af95981da14f72c75787e&oe=5F1E578A"
   },
   {
     "text": "Trong dự án minh hoạ trong sơ đồ PERT dưới đây, ngày kết thúc công việc C muộn nhất là ngày bao nhiêu? Ngày bắt đầu triển khai dự án là ngày 1",
     "numOfRightAnswer": 1,
     "answers": ["Ngày 17", "Ngày 16", "Ngày 18", "Ngày 15"],
-    "image": "abc"
+    "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/78468754_195910671804752_1663617002324192309_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=TyiXFcfJ5OAAX9pqk94&_nc_ht=scontent.fhan2-4.fna&oh=fd9193a2b39af95981da14f72c75787e&oe=5F1E578A"
   },
   {
     "text": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Số ngày tối thiểu cần thiết để hoàn thành dự án là bao nhiêu?",
     "numOfRightAnswer": 1,
     "answers": ["31", "29", "28", "27"],
-    "image": "abc"
+    "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/105752553_216327726083251_8090044449895129390_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=xQjLKSCHpm4AX_jIJcg&_nc_ht=scontent.fhan2-3.fna&oh=f145984449d93a645f3282f1ca0889ba&oe=5F208040"
   },
   {
     "text": "Hình vẽ sau biểu diễn lịch công việc (từ A đến I) của một dự án và số ngày làm việc của dự án đó. Đâu là đường xương sống của dự án?",
     "numOfRightAnswer": 1,
     "answers": ["A, B, G, D, I", "A, F, D, I", "A, B, H, I", "A, B, C, D, I"],
-    "image": "abc"
+    "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/105752553_216327726083251_8090044449895129390_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=xQjLKSCHpm4AX_jIJcg&_nc_ht=scontent.fhan2-3.fna&oh=f145984449d93a645f3282f1ca0889ba&oe=5F208040"
   },
   {
     "text": "Hình vẽ sau biểu diễn một phần lịch công việc của một dự án. Mỗi công việc có ngày bắt đầu sớm nhất – ngày kết thúc sớm nhất và ngày bắt đầu muộn nhất – ngày kết thúc muộn nhất. Số ngày mà công việc B có thể bắt đầu muộn nhất so với ngày bắt đầu sớm nhất là …",
     "numOfRightAnswer": 1,
     "answers": ["10 ngày", "9 ngày", "11 ngày", "8 ngày"],
-    "image": "abc"
+    "image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.15752-9/106424563_608560639783118_2210804727810802332_n.png?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=fFD9nA2MG-0AX8e2tTp&_nc_ht=scontent.fhan2-2.fna&oh=d7afbb60e8a1476c952dda0698ff5b7d&oe=5F202CCC"
   },
   {
     "text": "Phát biểu nào sau đây chính xác theo phân tích Pareto (cũng được gọi là quy tắc 80-20)?",
