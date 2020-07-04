@@ -39,9 +39,9 @@ const Content = (props) => {
         idsRightAnswer.length === selectCheckbox.length;
     }
     if (exactly) {
-      notification.success({ message: "Chính xác", placement: "bottomRight" });
+      notification.success({ message: "Chính xác", placement: "bottomRight", duration: 0.3 });
     } else {
-      notification.error({ message: "Sai", placement: "bottomRight" });
+      notification.error({ message: "Sai", placement: "bottomRight", duration: 0.3 });
     }
     cbCheckAnswer(no, exactly, multiple ? selectCheckbox : selectRadio);
   };
