@@ -182,13 +182,13 @@
   },
   {
     "text": "Các yếu tố cấn ước lượng là …",
-    "numOfRightAnswer": 1,
+    "numOfRightAnswer": 3,
     "answers": ["Công sức (effort)", "Thời gian", "Nhân sự (bao nhiêu người)"],
     "image": null
   },
   {
     "text": "Chọn phát biểu đúng về ước lượng dự án.",
-    "numOfRightAnswer": 1,
+    "numOfRightAnswer": 3,
     "answers": [
       "Người càng có kinh nghiệm về ước lượng thì ước lượng càng chính xác",
       "Khi có ít thông tin thì kết quả ước lượng càng thiếu chính xác",
